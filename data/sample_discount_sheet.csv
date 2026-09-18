@@ -90,7 +90,7 @@ item_id,item_name,brand,weight,rate,primary_discount,consumer_discount,total_dis
 222325000107197259,Packing Services,,0.02,1.25,5,10,15
 222325000122964232,Sample of Dog Churu,Inaba,0.02,1,5,10,15
 222325000173195189,GroomEssence Gallon Dispenser Pump,GroomEssence,0.02,299,5,10,15
-222325000113613365,Damage GroomEssence All-in-one_Vanilla_20 ml,GroomEssence,0.02,99,5,10,15
+222325000113613365,Damage GroomEssence All-in-one_Vanilla_20Â ml,GroomEssence,0.02,99,5,10,15
 222325000107197274,GroomEssence All-in-one_Vanilla_20 ml,GroomEssence,0.02,99,5,10,15
 222325000107690280,GroomEssence All-in-one_Mixed Berries_20 ml,GroomEssence,0.02,99,5,10,15
 222325000054488509,iGroom Magic Powder Spray_Charcoal_25g,Igroom,0.03,2399,5,10,15
@@ -330,7 +330,7 @@ item_id,item_name,brand,weight,rate,primary_discount,consumer_discount,total_dis
 222325000059581581,Zogoflex Drifty_Surf_Small,Westpaw,0.2,1499,5,10,15
 222325000036173055,Ruffwear Front Range? Collar_Hibiscus Pink_Large,Ruffwear,0.2,1649,5,10,15
 222325000053654433,Ruffwear Just a Cinch Leash_Aurora Teal,Ruffwear,0.2,2699,5,10,15
-222325000053654253,Ruffwear SUN SHOWER™ RAIN JACKET_Hibiscus Pink_X Large,Ruffwear,0.2,5499,5,10,15
+222325000053654253,Ruffwear SUN SHOWERÂ™ RAIN JACKET_Hibiscus Pink_X Large,Ruffwear,0.2,5499,5,10,15
 222325000082152650,Wahl 30 Ultimate Blade_STD,Wahl,0.2,2000,5,10,15
 222325000089821603,NS Wahl 10 Ultimate Blade_STD,Wahl,0.2,2000,5,10,15
 222325000102461419,Wahl Prime Blade #40_0.25 MM,Wahl,0.2,4999,5,10,15
@@ -419,7 +419,7 @@ item_id,item_name,brand,weight,rate,primary_discount,consumer_discount,total_dis
 222325000036181695,Westpaw Tizzi_Tangarine orange_Large,Westpaw,0.2,2099,5,10,15
 222325000036181767,Westpaw Zisc_Aqua blue_Large,Westpaw,0.2,1999,5,10,15
 222325000036181803,Westpaw Zisc_Tangarine orange_Large,Westpaw,0.2,1999,5,10,15
-222325000039347983,Ruffwear Cloud Chaser™ Jacket_Forest Green_X X Small,Ruffwear,0.2,6699,5,10,15
+222325000039347983,Ruffwear Cloud ChaserÂ™ Jacket_Forest Green_X X Small,Ruffwear,0.2,6699,5,10,15
 222325000039381681,Ruffwear Hover Craft_Aurora Teal_large,Ruffwear,0.2,2099,5,10,15
 222325000039689250,"CC - CLASSIC SERIES_Thinner_(7"")",CC,0.2,15999,5,10,15
 222325000043031181,Ruffwear Switchback Dog Harness_Blue Moon_X Small,Ruffwear,0.2,5899,5,10,15
@@ -449,7 +449,7 @@ item_id,item_name,brand,weight,rate,primary_discount,consumer_discount,total_dis
 222325000073526549,"Ruffwear Hi & light Trail Shoes_River Rock Green_(Set of two)2.25""",Ruffwear,0.2,2999,5,10,15
 222325000073541277,"Ruffwear Hi & light Trail Shoes_Blue pool_(Set of Two)3.00""",Ruffwear,0.2,3149,5,10,15
 222325000073541349,Ruffwear Lumenglow High-Vis Jacket_Blaze Orange_Medium,Ruffwear,0.2,5499,5,10,15
-222325000073547151,Ruffwear Quencher™ Dog Bowl_Huckleberry Blue_Medium,Ruffwear,0.2,1999,5,10,15
+222325000073547151,Ruffwear QuencherÂ™ Dog Bowl_Huckleberry Blue_Medium,Ruffwear,0.2,1999,5,10,15
 222325000073547313,"Ruffwear Hi & light Trail Shoes_Blue Pool_(Set of Two)2.75""",Ruffwear,0.2,3099,5,10,15
 222325000073547421,Ruffwear Stash Bag Mini_Basalt Gray,Ruffwear,0.2,2799,5,10,15
 222325000073816896,West Paw Rowdies Peet_Standard_Hot Pink,Westpaw,0.2,2999,5,10,15
@@ -546,7 +546,7 @@ item_id,item_name,brand,weight,rate,primary_discount,consumer_discount,total_dis
 222325000036181422,Westpaw Tizzi_Green_Small,Westpaw,0.2,1599,5,10,15
 222325000036181731,Westpaw Toppl_Green_Small,Westpaw,0.2,1899,5,10,15
 222325000036181794,Westpaw Zisc_Green_Small,Westpaw,0.2,1499,5,10,15
-222325000039347966,Ruffwear Cloud Chaser™ Jacket_Forest Green_X Small,Ruffwear,0.2,6899,5,10,15
+222325000039347966,Ruffwear Cloud ChaserÂ™ Jacket_Forest Green_X Small,Ruffwear,0.2,6899,5,10,15
 222325000039381630,Ruffwear Gourdo_Dandelion Yellow_Small,Ruffwear,0.2,1899,5,10,15
 222325000039689232,CC Big K Large Black Slicker,CC,0.2,10999,5,10,15
 222325000039693793,CC Big G Large Coral Slicker_Large,CC,0.2,10999,5,10,15
@@ -573,10 +573,10 @@ item_id,item_name,brand,weight,rate,primary_discount,consumer_discount,total_dis
 222325000062878001,Ruffwear Swamp Cooler Neck Gaiter_Aurora Teal/ Heliotrope Purple_XX Small,Ruffwear,0.2,1899,5,10,15
 222325000062878199,"Ruffwear Hi & Light Collar_Sage Green_X Small (9""-11"")",Ruffwear,0.2,1899,5,10,15
 222325000062879019,Swamp Cooler Neck Gaiter_Aurora Teal/ Heliotrope Purple_X Large,Ruffwear,0.2,2099,5,10,15
-222325000063398001,Ruffwear Trail Runner™ Bowl_Blue Pool_Std,Ruffwear,0.2,1799,5,10,15
+222325000063398001,Ruffwear Trail RunnerÂ™ Bowl_Blue Pool_Std,Ruffwear,0.2,1799,5,10,15
 222325000067323071,CC ChrisStix_Gray Blue,CC,0.2,1399,5,10,15
 222325000071928055,NS CC - Kool dry 2Xtreme Dryer_240v_Black,CC,0.2,69999,5,10,15
-222325000073526243,Ruffwear Quencher™ Dog Bowl_Fired Brick_Medium,Ruffwear,0.2,1999,5,10,15
+222325000073526243,Ruffwear QuencherÂ™ Dog Bowl_Fired Brick_Medium,Ruffwear,0.2,1999,5,10,15
 222325000073526531,"Ruffwear Hi & light Trail Shoes_River Rock Green_(Set of Two)1.75""",Ruffwear,0.2,2899,5,10,15
 222325000073541259,"Ruffwear Hi & light Trail Shoes_Blue Pool_(Set of Two)2.00""",Ruffwear,0.2,2949,5,10,15
 222325000073541331,"Ruffwear Hi & light Trail Shoes_River Rock Green_(Set of Two)3.00""",Ruffwear,0.2,3149,5,10,15
@@ -692,7 +692,7 @@ item_id,item_name,brand,weight,rate,primary_discount,consumer_discount,total_dis
 222325000036181812,Westpaw Zwig_Jungle Green_Large,Westpaw,0.2,2099,5,10,15
 222325000039689194,CC - Mark VI Curved Back Medium Slicker_Medium,CC,0.2,8999,5,10,15
 222325000039690102,"CC 6"" NTS STaggered Tooth Dematter Buttercomb",CC,0.2,9999,5,10,15
-222325000043111589,Ruffwear Switchback™ Harness Red Sumac X-Small,Ruffwear,0.2,5899,5,10,15
+222325000043111589,Ruffwear SwitchbackÂ™ Harness Red Sumac X-Small,Ruffwear,0.2,5899,5,10,15
 222325000045593787,Ruffwear Dog Mannequin_Gray_Std,Ruffwear,0.2,6999,5,10,15
 222325000046167001,CC - Oval Breezy Brush_16 MM Firm Pad (pink),CC,0.2,4499,5,10,15
 222325000049848071,Ruffwear Cloud Chaser_Obsidian Black_Small,Ruffwear,0.2,7099,5,10,15
@@ -944,7 +944,7 @@ item_id,item_name,brand,weight,rate,primary_discount,consumer_discount,total_dis
 222325000172730673,GroomEssence Dilution Bottle _1Ltr,GroomEssence,1,299,5,10,15
 222325000172700390,GroomEssence Dilution Bottle-1Ltr,GroomEssence,1,64.9,5,10,15
 222325000036169035,CC Double Action Trigger Sprayer_16 oz./473ml,CC,1,2499,5,10,15
-222325000172700446,GroomEssence UE Printed Dilution Bottle – 1L,GroomEssence,1,55,5,10,15
+222325000172700446,GroomEssence UE Printed Dilution Bottle Â– 1L,GroomEssence,1,55,5,10,15
 222325000043280702,SE LBP Seafood (CAT)_Case_85 G,LBP,1.02,1080,5,10,15
 222325000104259305,SE LBP - Gourmet Atlantic Tuna Mousse - 85 Grams,LBP,1.02,2160,5,10,15
 222325000083624643,LBP Gourmet Tender Turkey Mousse - 85 Grams,LBP,1.02,2160,5,10,15
