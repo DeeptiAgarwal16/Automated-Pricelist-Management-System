@@ -1,0 +1,1233 @@
+item_id,item_name,brand,weight,rate,primary_discount,consumer_discount,mrp_increase
+222325000036165456,Acana Adult Large Breed_Large_11.4 Kg,Acana,11.4,11999,0,0,0
+222325000036165465,Acana Adult Large Breed_X Large_17 Kg,Acana,17,16399,0,0,0
+222325000036165474,Acana Adult Small Breed_Medium_6 Kg,Acana,6,6999,0,0,0
+222325000036165483,Acana Adult Small Breed_Small_2 Kg,Acana,2,2999,0,0,0
+222325000036164615,Acana Adult Small Breed_Trial Pack_340 G,Acana,0.34,649,0,0,0
+222325000036165492,Acana Free-Run Duck_Large_11.4 Kg,Acana,11.4,13799,0,0,0
+222325000036164624,Acana Free-Run Duck_Medium_6 Kg,Acana,6,8499,0,0,0
+222325000036164633,Acana Free-Run Duck_Small_2 Kg,Acana,2,3799,0,0,0
+222325000036165510,Acana Grass Fed Lamb_Large 11.4 Kg,Acana,11.4,13799,0,0,0
+222325000036165519,Acana Grass Fed Lamb_Medium 6 Kg,Acana,6,8499,0,0,0
+222325000036164642,Acana Grass Fed Lamb_Small_2 Kg,Acana,2,3799,0,0,0
+222325000036165528,Acana Light & Fit_Large_11.4 Kg,Acana,11.4,11999,0,0,0
+222325000036164660,Acana Light & Fit_Medium_6 Kg,Acana,6,6999,0,0,0
+222325000036165537,Acana Light & Fit_Small_2 Kg,Acana,2,3099,0,0,0
+222325000036165555,Acana Cat Pacifica Food_Small_1.8 Kg,Acana,1.8,3499,0,0,0
+222325000036165582,Acana Classic Prairie Poultry_Small_2 Kg,Acana,2,2599,0,0,0
+222325000036164705,Acana Puppy Large Breed_Large_11.4 Kg,Acana,11.4,11999,0,0,0
+222325000036164714,Acana Puppy Large Breed_X Large_17 Kg,Acana,17,16399,0,0,0
+222325000036165618,Acana Puppy Small Breed_Medium_6 Kg,Acana,6,6999,0,0,0
+222325000036165627,Acana Puppy Small Breed_Small_2 Kg,Acana,2,2999,0,0,0
+222325000036164732,Acana Sport & Agility_Large_11.4 Kg,Acana,11.4,11999,0,0,0
+222325000036165654,Acana Classic Wild Coast_Small_2 Kg,Acana,2,2799,0,0,0
+222325000036165681,CC - Spectrum Ten Soft And Smooth Shampoo 128 oz./3.8L,CC,4.56,13999,0,0,0
+222325000036165690,Damage Acana Adult Large Breed_Large_11.4 Kg,Acana,11.4,11999,0,0,0
+222325000036164741,Damage Acana Adult Large Breed_X Large_17 Kg,Acana,17,16399,0,0,0
+222325000036165699,Damage Acana Adult Small Breed_Small_2 Kg,Acana,2,2999,0,0,0
+222325000036165708,Damage Acana Adult Small Breed_Trial Pack_340 G,Acana,0.34,649,0,0,0
+222325000036165717,Damage Acana Free-Run Duck_Large_11.4 Kg,Acana,11.4,13799,0,0,0
+222325000036165726,Damage Acana Free-Run Duck_Medium_6 Kg,Acana,6,8499,0,0,0
+222325000036164750,Damage Acana Grass Fed Lamb_Large 11.4 Kg,Acana,11.4,13799,0,0,0
+222325000036164759,Damage Acana Light & Fit_Large_11.4 Kg,Acana,11.4,11999,0,0,0
+222325000036165735,Damage Acana Light & Fit_Medium_6 Kg,Acana,6,6999,0,0,0
+222325000036165744,Damage Acana Classic Prairie Poultry_Small_2 Kg,Acana,2,2599,0,0,0
+222325000036164795,Damage Acana Puppy Small Breed_Small_2 Kg,Acana,2,2999,0,0,0
+222325000036164813,Damage Orijen Six Fish Dog_Large_11.4 Kg,Orijen,11.4,15499,0,0,0
+222325000036164822,Damage Orijen Six Fish Dog_Medium_6 Kg,Orijen,6,8999,0,0,0
+222325000036165762,Damage Orijen Six Fish Dog_Small_2 Kg,Orijen,2,3999,0,0,0
+222325000036164831,Damage Orijen Original Dog Food_Large_11.4 Kg,Orijen,11.4,13999,0,0,0
+222325000036164840,Damage Orijen Original Dog Food_Medium_6 Kg,Orijen,6,7999,0,0,0
+222325000036165771,Damage Orijen Original Dog Food_Small_ 2 Kg,Orijen,2,3599,0,0,0
+222325000036164849,Damage Orijen Original Dog Food_XLarge_17 Kg,Orijen,17,17999,0,0,0
+222325000036164858,Damage Orijen Large Breed Puppy Food_Large_11.4 Kg,Orijen,11.4,13999,0,0,0
+222325000036165780,Damage Orijen Large Breed Puppy Food_Medium_ 6 Kg,Orijen,6,7999,0,0,0
+222325000036164867,Damage Orijen Puppy Food_ Medium_ 6 Kg,Orijen,6,7999,0,0,0
+222325000036164885,LBP Chicken and Sweet Potato_Case_390 G,LBP,4.68,4080,0,0,0
+222325000036164894,LBP Duck and Blueberries_Case_390 G,LBP,4.68,4080,0,0,0
+222325000036164912,LBP Salmon & Vegetable Terrine_Case_150 G,LBP,1.2,1610,0,0,0
+222325000036164921,LBP Seafood (CAT)_Case_85 G,LBP,1.02,1080,0,0,0
+222325000036164948,"LBP Turkey with Broccoli, Carrots and Cranberries_Case_390 G",LBP,4.68,4080,0,0,0
+222325000036165843,Orijen Six Fish Dog_Large_11.4 Kg,Orijen,11.4,15499,0,0,0
+222325000036165852,Orijen Six Fish Dog_Medium_6 Kg,Orijen,6,8999,0,0,0
+222325000036164957,Orijen Six Fish Dog_Small_2 Kg,Orijen,2,3999,0,0,0
+222325000036164966,Food Storage Container,Orijen,0.1,2499,0,0,0
+222325000036166002,Orijen Original Dog Food_Large_11.4 Kg,Orijen,11.4,13999,0,0,0
+222325000036165915,Orijen Original Dog Food_Medium_6 Kg,Orijen,6,7999,0,0,0
+222325000036166011,Orijen Original Dog Food_Small_ 2 Kg,Orijen,2,3599,0,0,0
+222325000036165924,Orijen Original Dog Food_Trial Pack_ 340 G,Orijen,0.34,749,0,0,0
+222325000036165933,Orijen Original Dog Food_XLarge_17 Kg,Orijen,17,17999,0,0,0
+222325000036166020,Orijen Large Breed Puppy Food_Large_11.4 Kg,Orijen,11.4,13999,0,0,0
+222325000036166029,Orijen Large Breed Puppy Food_Medium_ 6 Kg,Orijen,6,7999,0,0,0
+222325000036165942,Orijen Puppy Food_ Medium_ 6 Kg,Orijen,6,7999,0,0,0
+222325000036165951,Orijen Puppy Food_ Small_ 2 Kg,Orijen,2,3599,0,0,0
+222325000036166047,Orijen Puppy Food_ Trial Pack_ 340 G,Orijen,0.34,749,0,0,0
+222325000036165960,Orijen Senior_Large_11.4 Kg,Orijen,11.4,13999,0,0,0
+222325000036165969,Orijen Senior_Medium_6 Kg,Orijen,6,7999,0,0,0
+222325000036166056,Orijen Senior_Small_2 Kg,Orijen,2,3599,0,0,0
+222325000036166065,SE Acana Adult Small Breed_Trial Pack_340 G,Acana,0.34,649,0,0,0
+222325000036165987,SE Acana Free-Run Duck_Medium_6 Kg,Acana,6,8499,0,0,0
+222325000036165996,SE Acana Puppy Large Breed_Large_11.4 Kg,Acana,11.4,11999,0,0,0
+222325000036166092,SE Orijen Original Dog Food_Medium_6 Kg,Orijen,6,7999,0,0,0
+222325000036167041,CC - Mini T-Brush (16 MM)Std,CC,0.2,5699,0,0,0
+222325000036167050,CC - Iconic Brass Purple Brush - Purple Large,CC,0.2,8999,0,0,0
+222325000036166803,CC 20mm Little Wonder Pin Brush_20mm,CC,0.2,4699,0,0,0
+222325000036166812,Oval Pocket Toy Brass Pin Fusion Series_(20 MM),CC,0.2,8999,0,0,0
+222325000036166821,CC 20mm Oval Brass Pin Brush Fusion Series_20mm,CC,0.2,10999,0,0,0
+222325000036166830,CC 20mm Oval Pin Brush Gold Series_20mm,CC,0.2,7499,0,0,0
+222325000036167720,CC 20mm Oval Pin Brush Original_20mm,CC,0.2,5599,0,0,0
+222325000036167729,CC 20mm Oval Wood Pin Brush Large_20mm,CC,0.2,7999,0,0,0
+222325000036167738,CC 20mm Oval Wood Pin Brush Small_20mm,CC,0.2,6999,0,0,0
+222325000036167747,Oval Pocket Toy Brass Pin Fusion Series_(27 MM),CC,0.2,9999,0,0,0
+222325000036167756,CC 27mm Oval Brass Pin Brush Fusion Series_27mm,CC,0.2,11999,0,0,0
+222325000036166857,Oval Pin Brush Gold Series_(27 MM),CC,0.2,7999,0,0,0
+222325000036167765,CC 27mm Oval Pin Brush Original_27mm,CC,0.2,5999,0,0,0
+222325000036167783,CC 35mm Oval Pin Brush Original_35mm,CC,0.2,7499,0,0,0
+222325000036167792,CC 5? Face/Feet Fine/Coarse Buttercomb_5?,CC,0.2,6499,0,0,0
+222325000036167801,"Cat Carding Fine Dual Tooth Comb_6""",CC,0.2,9999,0,0,0
+222325000036166884,"CC 7 ?? Fine Buttercomb_7.5""",CC,0.2,6499,0,0,0
+222325000036166893,"CC 7 ?? Fine/X-Coarse Buttercomb_7.5""",CC,0.2,6499,0,0,0
+222325000036167810,CC 7 ?? Long Tooth Fine/Coarse Buttercomb_7 ??,CC,0.2,9999,0,0,0
+222325000036166902,CC Double Action Trigger Sprayer_8 oz./236ml,CC,0.28,2499,0,0,0
+222325000036167819,"CC Adalynn Rose 5"" Straight_5""",CC,0.2,26999,0,0,0
+222325000036166920,"CC Adalynn Rose 7"" Chunky Blender_7""",CC,0.2,39999,0,0,0
+222325000036166929,"CC Adalynn Rose 7"" Straight_7""",CC,0.2,29999,0,0,0
+222325000036167828,"CC Adalynn Rose 7"" Thinner_7""",CC,0.2,34999,0,0,0
+222325000036167837,"CC Adalynn Rose 8"" Curve_8""",CC,0.2,34999,0,0,0
+222325000036167846,"CC Adalynn Rose 8"" Straight_8""",CC,0.2,29999,0,0,0
+222325000036167855,CC After-U-Bathe Final RiSEe_4 oz.,CC,0.14,649,0,0,0
+222325000036166938,CC After U Bathe RiSEe_128 oz.,CC,4.54,11999,0,0,0
+222325000036167864,CC After U Bathe RiSEe_16 oz.,CC,0.57,3499,0,0,0
+222325000036167882,CC Andreas Nylon/Boar Cushion Brush Medium,CC,0.2,11999,0,0,0
+222325000036166965,CC Andreas Nylon/Boar Cushion Brush Small,CC,0.2,10999,0,0,0
+222325000036167891,CC Black Button_2-1 oz.,CC,0.04,3499,0,0,0
+222325000036166983,CC Black on Black Shampoo_16 oz.,CC,0.57,3199,0,0,0
+222325000036166992,CC Black on Black Shampoo_64 oz.,CC,2.27,7999,0,0,0
+222325000036168001,CC CC Logo Bag,CC,0.2,999,0,0,0
+222325000036168010,CC CCS Logo Applicator Bottle with Measuring Marks,CC,0.2,999,0,0,0
+222325000036167927,"CC Classic 8"" Straight_8""",CC,0.2,15999,0,0,0
+222325000036167936,"CC Classic 8.5"" Chunky Blender_8.5""",CC,0.2,19999,0,0,0
+222325000036167945,Clean Start Shampoo_128 oz./3.8L,CC,4.56,10999,0,0,0
+222325000036168019,Clean Start Shampoo_16 oz./473ml,CC,0.57,2999,0,0,0
+222325000036168028,CC Color Applicator Brush,CC,0.2,1999,0,0,0
+222325000036168037,"CC Crescent_6.5""",CC,0.2,14999,0,0,0
+222325000036167963,CC Day to Day Moisturizing Conditioner_128 oz.,CC,4.54,11999,0,0,0
+222325000036168046,CC Day to Day Moisturizing Conditioner_16 oz.,CC,0.57,3499,0,0,0
+222325000036167972,CC Day to Day Moisturizing Shampoo_128 oz.,CC,4.54,10999,0,0,0
+222325000036168055,Day to Day Shampoo_16 oz./473ml,CC,0.57,2999,0,0,0
+222325000036168073,CC - Diamond Series Miracle Moisture Conditioner128 oz./3.8L,CC,4.56,15999,0,0,0
+222325000036169035,CC Double Action Trigger Sprayer_16 oz./473ml,CC,1,2499,0,0,0
+222325000036169044,CC Exquisite Fine Mist Sprayer_10 oz.,CC,0.35,3199,0,0,0
+222325000036168145,CC Gallon Pump only_128 oz.,CC,4.54,1399,0,0,0
+222325000036169062,CC Gold on Gold Shampoo_16 oz.,CC,0.57,3499,0,0,0
+222325000036169071,CC Gold on Gold Shampoo_64 oz.,CC,2.27,8499,0,0,0
+222325000036168154,CC GOTCHA! Odor Exploder_128 oz.,CC,4.54,8999,0,0,0
+222325000036169080,CC GOTCHA! Odor Exploder_32 oz.,CC,1.14,3499,0,0,0
+222325000036168163,CC Happy Eyes Tearless Shampoo_128 oz.,CC,4.54,13999,0,0,0
+222325000036169089,CC Happy Eyes Tearless Shampoo_16 oz.,CC,0.57,3199,0,0,0
+222325000036169098,CC Ice on Ice Detangling Conditioner_128 oz.,CC,4.54,12999,0,0,0
+222325000036168190,CC Ice on Ice Detangling Conditioner_16 oz.,CC,0.57,3499,0,0,0
+222325000036169107,CC Ice on Ice Detangling Shampoo_128 oz.,CC,4.54,13999,0,0,0
+222325000036168199,CC Ice on Ice Detangling Shampoo_16 oz.,CC,0.57,3199,0,0,0
+222325000036168208,CC - Ice on Ice Detangling Spray Concentrate16 oz./473ml,CC,0.57,8999,0,0,0
+222325000036169116,CC Ice on Ice Detangling Spray Ready to Use_16 oz.,CC,0.57,3499,0,0,0
+222325000036169125,CC - Ice on Ice Ultra Dematting Spray8 oz./236ml,CC,0.28,5499,0,0,0
+222325000036169143,CC Ionic Large Boar/Brass w/Handle Brush_.06 Gauge,CC,0.2,6999,0,0,0
+222325000036168244,CC Ionic Small Boar/Brass w/ Handle Brush_.06 Gauge,CC,0.2,5999,0,0,0
+222325000036168262,CC Kool Dry 240v Xtreme PURPLE_240v,CC,0.2,59999,0,0,0
+222325000036168289,CC Large Grooming Tote Bag,CC,0.2,8999,0,0,0
+222325000036168298,CC - Oval Leather Brush Protectors Large (27 MM),CC,0.2,1699,0,0,0
+222325000036169170,CC - Mark III Medium Slicker_Medium,CC,0.2,6999,0,0,0
+222325000036169179,CC Mark II Small Slicker_Small,CC,0.2,5999,0,0,0
+222325000036169188,CC Mark II Small Slicker ? RED_Small,CC,0.2,7999,0,0,0
+222325000036169197,CC Mark VII Curved Back Large Slicker_Large,CC,0.2,9999,0,0,0
+222325000036168307,CC Mark VIII Round Head Slicker_Round,CC,0.2,7999,0,0,0
+222325000036169233,CC - Mini T-Brush - Std (27 MM),CC,0.2,5999,0,0,0
+222325000036169242,CC Mystic Ear Cleaner_128 oz.,CC,4.54,14999,0,0,0
+222325000036168316,CC Mystic Ear Cleaner_8 oz.,CC,0.28,3299,0,0,0
+222325000036169251,CC OC Magic Foam Refill_64 oz.,CC,2.27,6999,0,0,0
+222325000036168325,CC OC Magic Foam with Pump_18 oz.,CC,0.64,3499,0,0,0
+222325000036169287,Peace & Kindness Colloidal Silver Gel_8 oz./236ml,CC,0.28,5999,0,0,0
+222325000036169296,Peace & Kindness Colloidal Silver Shampoo_16 oz./473ml,CC,0.57,4999,0,0,0
+222325000036169305,Peace & Kindness Colloidal Silver Shampoo_64 oz./1.9L,CC,2.28,12999,0,0,0
+222325000036169314,Peace & Kindness Colloidal Silver Spray_4 oz./118ml,CC,0.14,3499,0,0,0
+222325000036169323,Peace & Kindness Colloidal Silver Spray_8 oz./236ml,CC,0.28,5999,0,0,0
+222325000036168343,"CC - Poodle Butter Comb9.625""",CC,0.2,9999,0,0,0
+222325000036169332,CC Powder/Chalk Applicator Brush,CC,0.2,3999,0,0,0
+222325000036169341,CC Precious Drop Keratin Spray Concentrate_16 oz.,CC,0.57,7499,0,0,0
+222325000036169350,CC Precious Drop Keratin Spray Ready to Use_16 oz.,CC,0.57,2999,0,0,0
+222325000036168379,CC Quench_8 oz.,CC,0.28,2699,0,0,0
+222325000036168388,CC Red on Red Shampoo_16 oz.,CC,0.57,3999,0,0,0
+222325000036168397,CC Ring Side Tote Bag - PURPLE,CC,0.2,7499,0,0,0
+222325000036168424,CC Silk Spirits Liquid Silk Protein_4 oz.,CC,0.14,2699,0,0,0
+222325000036168433,CC Silk Spirits Liquid Silk Protein_8 oz.,CC,0.28,3999,0,0,0
+222325000036168442,CC Small Caddie Tote Bag,CC,0.2,3199,0,0,0
+222325000036168451,CC - Oval Leather Brush Protectors Small (27 MM),CC,0.2,1599,0,0,0
+222325000036169440,CC SmartRiSEe Hydrating Chamomile_12 oz.,CC,0.43,1999,0,0,0
+222325000036169458,CC Smart RiSEe Hypo-allergenic Blend_12 oz.,CC,0.43,1999,0,0,0
+222325000036169476,CC - Smart Rinse Vanilla Oatmeal Conditioner 12 oz. /355ml,CC,0.43,1999,0,0,0
+222325000036169512,CC Smart Scents Cherry & Oats Cologne_16 oz.,CC,0.57,3999,0,0,0
+222325000036169521,CC Smart Scents Jungle Apple Cologne_16 oz.,CC,0.57,3999,0,0,0
+222325000036168505,CC Smart Scents King Arthur's Knight Out_16 oz.,CC,0.57,3999,0,0,0
+222325000036168514,CC Smart Scents Papaya Starfruit Cologne_16 oz.,CC,0.57,3999,0,0,0
+222325000036168523,CC Smart Scents Tropical Breeze Cologne_16 oz.,CC,0.57,3999,0,0,0
+222325000036168532,CC SmartWash50 Hydrating Chamomile_128 oz.,CC,4.54,12999,0,0,0
+222325000036169557,CC - Smartwash50 Hypo-Allergenic Blend_128 oz./3.8L,CC,4.56,12999,0,0,0
+222325000036169584,CC Spectrum One Coarse & Rough Coats Conditioner_128 oz.,CC,4.54,12999,0,0,0
+222325000036169593,CC Spectrum One Coarse & Rough Coats Conditioner_16 oz.,CC,0.57,3499,0,0,0
+222325000036169602,CC Spectrum One Coarse & Rough Coat Shampoo_128 oz.,CC,4.54,13999,0,0,0
+222325000036168613,CC Spectrum One Coarse & Rough Coat Shampoo_16 oz.,CC,0.57,3199,0,0,0
+222325000036168622,CC Spectrum One Substance Builder_16 oz.,CC,0.57,3999,0,0,0
+222325000036169611,CC - Spectrum One Substance Builder_64 oz./1.9 L,CC,2.28,10999,0,0,0
+222325000036168631,CC Spectrum Ten Hypro Pac_16 oz.,CC,0.57,3999,0,0,0
+222325000036168640,CC Spectrum Ten Soft & Smooth Coat Conditioner_128 oz.,CC,4.54,12999,0,0,0
+222325000036169620,CC Spectrum Ten Soft & Smooth Coat Conditioner_16 oz.,CC,0.57,3499,0,0,0
+222325000036169638,CC - Super Hold Spray (aerosol)10 oz.,CC,0.35,4299,0,0,0
+222325000036169647,"CC Terrier Palm Pad, Leather",CC,0.2,9999,0,0,0
+222325000036168667,CC Thick N Thicker Volume RespoSEe Foaming Protein_16 oz.,CC,0.57,4999,0,0,0
+222325000036168676,CC Thick n Thicker Volume RespoSEe Foaming Protein_4 oz.,CC,0.14,569,0,0,0
+222325000036169656,CC Thick N Thicker Volume RespoSEe Foaming Protein_64 oz.,CC,2.27,13999,0,0,0
+222325000036169665,CC - Tiny Tot Wood Pin Brush - (11.5 MM),CC,0.2,2999,0,0,0
+222325000036169674,CC Tube Of Shear Oil_.25 oz.,CC,0.2,1499,0,0,0
+222325000036169692,CC White Ice Chalk_22 oz.,CC,0.2,5999,0,0,0
+222325000036168694,CC White Ice Chalk_8 oz.,CC,0.2,3499,0,0,0
+222325000036169701,CC White on White Shampoo_128 oz.,CC,4.54,13999,0,0,0
+222325000036168703,CC White on White Shampoo_16 oz.,CC,0.57,3199,0,0,0
+222325000036169710,Damage Acana Adult Small Breed_Medium_6 Kg,Acana,6,6999,0,0,0
+222325000036169719,Damage Acana Free-Run Duck_Small_2 Kg,Acana,2,3799,0,0,0
+222325000036169737,Damage Acana Grass Fed Lamb_Medium 6 Kg,Acana,6,8499,0,0,0
+222325000036168730,Damage Acana Grass Fed Lamb_Small_2 Kg,Acana,2,3799,0,0,0
+222325000036169755,Damage Acana Light & Fit_Small_2 Kg,Acana,2,3099,0,0,0
+222325000036168748,Damage Acana Cat Pacifica Food_Small_1.8 Kg,Acana,1.8,3499,0,0,0
+222325000036168784,Damage Acana Puppy Large Breed_Large_11.4 Kg,Acana,11.4,11999,0,0,0
+222325000036168793,Damage Acana Puppy Large Breed_X Large_17 Kg,Acana,17,16399,0,0,0
+222325000036168811,Damage Acana Sport & Agility_Large_11.4 Kg,Acana,11.4,11999,0,0,0
+222325000036168829,Damage Acana Classic Wild Coast_Small_2 Kg,Acana,2,2799,0,0,0
+222325000036169836,Damage Orijen Original Dog Food_Trial Pack_ 340 G,Orijen,0.34,749,0,0,0
+222325000036168901,Damage Orijen Puppy Food_ Small_ 2 Kg,Orijen,2,3599,0,0,0
+222325000036169845,Damage Orijen Puppy Food_ Trial Pack_ 340 G,Orijen,0.34,749,0,0,0
+222325000036169854,Damage Orijen Senior_Large_11.4 Kg,Orijen,11.4,13999,0,0,0
+222325000036168910,Damage Orijen Senior_Medium_6 Kg,Orijen,6,7999,0,0,0
+222325000036169863,Damage Orijen Senior_Small_2 Kg,Orijen,2,3599,0,0,0
+222325000036168919,Damage Sustainably Yours Small Grains 11.8 KG,SY,11.8,4199,0,0,0
+222325000036169881,Damage Sustainably Yours Small Grains 5.9 KG,SY,5.9,2299,0,0,0
+222325000036168928,Damage Sustainably Yours Mixed Grains 11.8 KG,SY,11.8,3999,0,0,0
+222325000036168937,Damage Sustainably Yours Mixed Grains 5.9 KG,SY,5.9,2199,0,0,0
+222325000036169980,Haqihana Harness Green_X X Small,Haqihana,0.2,3200,0,0,0
+222325000036170027,Haqihana Harness_Multi Color_X X Small,Haqihana,0.2,3200,0,0,0
+222325000036171034,Haqihana Harness_Wine_X X Small,Haqihana,0.2,3200,0,0,0
+222325000036171061,Haqihana Puppies By Turid Rugaas,Haqihana,0.2,2500,0,0,0
+222325000036171079,Haqihana Wee SigSE of Dogs By Turid Rugaas,Haqihana,0.2,2500,0,0,0
+222325000036171151,CC - Oval Leather Brush Protectors Large (20 MM),CC,0.2,1699,0,0,0
+222325000036170180,Ruffwear Approach? Pack_Camp fire Orange_X-Small,Ruffwear,0.2,9299,0,0,0
+222325000036170189,Ruffwear Approach? Pack_Camp fire Orange_XX-Small,Ruffwear,0.2,6000,0,0,0
+222325000036170198,Ruffwear Approach? Pack_Meadow Green_Small,Ruffwear,0.2,9399,0,0,0
+222325000036170207,Ruffwear Approach? Pack_Meadow Green_X-Small,Ruffwear,0.2,9299,0,0,0
+222325000036171241,Ruffwear Approach? Pack_Pacific Blue_Small,Ruffwear,0.2,9399,0,0,0
+222325000036171250,Ruffwear Approach? Pack_Pacific Blue_X-Small,Ruffwear,0.2,9299,0,0,0
+222325000036171259,Ruffwear Approach? Pack_Pacific Blue_XX-Small,Ruffwear,0.2,6000,0,0,0
+222325000036170261,Ruffwear Chain Reaction Martingale Collar_Blue Dusk_Small,Ruffwear,0.2,2499,0,0,0
+222325000036171331,Ruffwear Chain Reaction Collar_Granite Gray_Small,Ruffwear,0.2,2499,0,0,0
+222325000036171349,Ruffwear Chain Reaction Martingale Collar_Seafoam_Small,Ruffwear,0.2,2499,0,0,0
+222325000036170297,Ruffwear Chain Reaction Martingale Collar_Sunset_Small,Ruffwear,0.2,2499,0,0,0
+222325000036170432,Ruffwear Cloud Chaser? Jacket_Blue Moon_Small,Ruffwear,0.2,7099,0,0,0
+222325000036170441,Ruffwear Cloud Chaser? Jacket_Blue Moon_X-Large,Ruffwear,0.2,7699,0,0,0
+222325000036170450,Ruffwear Cloud Chaser? Jacket_Blue Moon_X-Small,Ruffwear,0.2,6899,0,0,0
+222325000036170459,Ruffwear Cloud Chaser? Jacket_Blue Moon_XX-Small,Ruffwear,0.2,6699,0,0,0
+222325000036170468,Ruffwear Cloud Chaser? Jacket_Sockeye Red_Large,Ruffwear,0.2,7499,0,0,0
+222325000036170486,Ruffwear Cloud Chaser? Jacket_Sockeye Red_Small,Ruffwear,0.2,7099,0,0,0
+222325000036170495,Ruffwear Cloud Chaser? Jacket_Sockeye Red_XX-Small,Ruffwear,0.2,6699,0,0,0
+222325000036170522,Ruffwear Doubleback Harness - CLOUDBURST GRAY Medium,Ruffwear,0.2,14999,0,0,0
+222325000036170729,Ruffwear Float Coat Life Jacket_Blue Dusk_X-Large,Ruffwear,0.2,8999,0,0,0
+222325000036170738,Ruffwear Float Coat Life Jacket_Blue Dusk_X-Small,Ruffwear,0.2,8599,0,0,0
+222325000036170747,Ruffwear Float Coat Life Jacket_Blue Dusk_XX-Small,Ruffwear,0.2,8499,0,0,0
+222325000036170801,Ruffwear Float Coat? Life Jacket_Red Sumac_X-Small,Ruffwear,0.2,8599,0,0,0
+222325000036172001,Ruffwear Float Coat? Life Jacket_Red Sumac_XX-Small,Ruffwear,0.2,8499,0,0,0
+222325000036172046,Ruffwear Float Coat? Life Jacket_Wave Orange_Medium,Ruffwear,0.2,8799,0,0,0
+222325000036172064,Ruffwear Float Coat? Life Jacket_Wave Orange_X-Large,Ruffwear,0.2,8999,0,0,0
+222325000036172082,Ruffwear Float Coat? Life Jacket_Wave Orange_XX-Small,Ruffwear,0.2,8499,0,0,0
+222325000036172127,Ruffwear Front Range? Harness_Aurora Teal_XX-Small,Ruffwear,0.2,4399,0,0,0
+222325000036172154,Ruffwear Front Range? Harness_Blue Moon_Small,Ruffwear,0.2,4599,0,0,0
+222325000036172361,Ruffwear Front Range? Harness_Red Sumac_XX-Small,Ruffwear,0.2,4399,0,0,0
+222325000036172424,Ruffwear Front Range? Harness_Twilight Gray_Medium,Ruffwear,0.2,4699,0,0,0
+222325000036173028,Ruffwear Front Range Collar_Blue Moon_Large,Ruffwear,0.2,1649,0,0,0
+222325000036173055,Ruffwear Front Range? Collar_Hibiscus Pink_Large,Ruffwear,0.2,1649,0,0,0
+222325000036173145,Ruffwear Front Range? Collar_Twilight Gray_Medium,Ruffwear,0.2,1549,0,0,0
+222325000036172712,Ruffwear Gnawt-a-Cone? Toy_Dandelion Yellow,Ruffwear,0.2,1599,0,0,0
+222325000036172739,Ruffwear Gnawt-a-Rock? Toy_Metolius Blue,Ruffwear,0.2,2299,0,0,0
+222325000036172766,Ruffwear Gourdo? Toy_Metolius Blue_Small,Ruffwear,0.2,1899,0,0,0
+222325000036172892,Ruffwear Highlands? Pad_Cloudburst Gray_Medium,Ruffwear,0.2,3499,0,0,0
+222325000036172973,Ruffwear Hi & Light? Harness_Twilight Gray_X-Small,Ruffwear,0.2,4499,0,0,0
+222325000036173550,Ruffwear Hi & Light? Harness_Twilight Gray_XX-Small,Ruffwear,0.2,4399,0,0,0
+222325000036174054,Ruffwear Huckama? Toy_Dandelion Yellow,Ruffwear,0.2,1599,0,0,0
+222325000036174063,Ruffwear Huckama? Toy_Metolius Blue,Ruffwear,0.2,1599,0,0,0
+222325000036174072,Ruffwear Huckama? Toy_Sockeye Red,Ruffwear,0.2,1599,0,0,0
+222325000036174090,Ruffwear Jet Stream - Salamander Orange Medium,Ruffwear,0.2,4099,0,0,0
+222325000036173676,Ruffwear Jet Stream? Cooling Vest_Blue Lagoon_Medium,Ruffwear,0.2,4099,0,0,0
+222325000036173685,Ruffwear Jet Stream? Cooling Vest_Blue Lagoon_Small,Ruffwear,0.2,3999,0,0,0
+222325000036173694,Ruffwear Jet Stream? Cooling Vest_Blue Lagoon_X-Small,Ruffwear,0.2,3899,0,0,0
+222325000036173703,Ruffwear Jet Stream? Cooling Vest_Blue Lagoon_XX-Small,Ruffwear,0.2,3799,0,0,0
+222325000036173712,Ruffwear Jet Stream? Cooling Vest_Salamander Orange_Small,Ruffwear,0.2,3999,0,0,0
+222325000036174126,Ruffwear Jet Stream? Cooling Vest_Salamander Orange_X-Large,Ruffwear,0.2,4299,0,0,0
+222325000036174135,Ruffwear Jet Stream? Cooling Vest_Salamander Orange_X-Small,Ruffwear,0.2,3899,0,0,0
+222325000036174144,Ruffwear Jet Stream? Cooling Vest_Salamander Orange_XX-Small,Ruffwear,0.2,3799,0,0,0
+222325000036174189,Ruffwear Knot-a-Collar?_Blue Atoll_Medium,Ruffwear,0.2,2299,0,0,0
+222325000036174207,Ruffwear Knot-a-Collar?_Granite Gray_Medium,Ruffwear,0.2,2299,0,0,0
+222325000036174234,Ruffwear Knot-a-Collar?_Red Currant_Medium,Ruffwear,0.2,2299,0,0,0
+222325000036174342,Ruffwear Mt. Bachelor Pad?_Overcast Blue_Medium,Ruffwear,0.2,5999,0,0,0
+222325000036173919,Ruffwear Mt. Bachelor Pad?_Tumalo Teal_Medium,Ruffwear,0.2,5999,0,0,0
+222325000036174351,Ruffwear Mt. Bachelor? Pad_Granite Gray_Medium,Ruffwear,0.2,5999,0,0,0
+222325000036174468,Ruffwear Stash Bag?_Twilight Gray,Ruffwear,0.2,2399,0,0,0
+222325000036174522,Ruffwear Summit Trex Shoes (Set of Two)_Twilight Grey_2.0,Ruffwear,0,3999,0,0,0
+222325000036175198,Ruffwear Summit Trex Shoes (Set of Two)_Twilight Grey_2.50,Ruffwear,0,4199,0,0,0
+222325000036175225,Ruffwear Summit Trex Shoes (Set of Two)_Twilight Grey_2.0,Ruffwear,0,2600,0,0,0
+222325000036175261,Ruffwear Sun Shower? Jacket_Alpenglow Pink_Medium,Ruffwear,0.2,5299,0,0,0
+222325000036174576,Ruffwear Sun Shower? Jacket_Blue Dusk_Medium,Ruffwear,0.2,5299,0,0,0
+222325000036174621,Ruffwear Swamp Cooler? Cooling Vest_Graphite Gray_XX-Small,Ruffwear,0.2,6499,0,0,0
+222325000036174686,Ruffwear Top Rope? Collar_Blue Dusk_Large,Ruffwear,0.2,2899,0,0,0
+222325000036175414,Ruffwear Top Rope? Collar_Granite Gray_Large,Ruffwear,0.2,2899,0,0,0
+222325000036175432,Ruffwear Top Rope? Collar_Seafoam_Large,Ruffwear,0.2,2899,0,0,0
+222325000036174713,Ruffwear Top Rope? Collar_Seafoam_Small,Ruffwear,0.2,2699,0,0,0
+222325000036175450,Ruffwear Top Rope? Collar_SuSEet_Small,Ruffwear,0.2,2699,0,0,0
+222325000036175477,Ruffwear Turnup? Toy_Dandelion Yellow,Ruffwear,0.2,1599,0,0,0
+222325000036175486,Ruffwear Turnup? Toy_Metolius Blue,Ruffwear,0.2,1599,0,0,0
+222325000036174740,Ruffwear Turnup? Toy_Sockeye Red,Ruffwear,0.2,1599,0,0,0
+222325000036174749,Ruffwear Web Master Pro? Harness_Red Currant_Small,Ruffwear,0.2,9499,0,0,0
+222325000036174767,Ruffwear Web Master? Harness_Red Currant_X-Small,Ruffwear,0.2,6699,0,0,0
+222325000036174776,Ruffwear Web Master? Harness_Red Currant_XX-Small,Ruffwear,0.2,6599,0,0,0
+222325000036175549,Ruffwear Web Master? Harness_Twilight Gray_Small,Ruffwear,0.2,6799,0,0,0
+222325000036175594,SE Acana Adult Large Breed_X Large_17 Kg,Acana,17,16399,0,0,0
+222325000036174857,SE Acana Sport & Agility_Large_11.4 Kg,Acana,11.4,11999,0,0,0
+222325000036174956,Westpaw Bumi_Aqua blue_Small,Westpaw,0.2,1599,0,0,0
+222325000036175801,Westpaw Bumi_Green_Small,Westpaw,0.2,1599,0,0,0
+222325000036174992,Westpaw Custer_Pewter Fur ( Brown ),Westpaw,0.2,1899,0,0,0
+222325000036175819,Westpaw Custer_Purple Fur,Westpaw,0.2,1899,0,0,0
+222325000036175837,Westpaw Fergus_Pewter Fur ( Brown ),Westpaw,0.2,2499,0,0,0
+222325000036176010,Westpaw Holiday Bear_Red_Large,Westpaw,0.2,1599,0,0,0
+222325000036175855,Westpaw Holiday Salsa_Emerald (Green)_Large,Westpaw,0.2,1999,0,0,0
+222325000036176046,Westpaw Hurley_Aqua blue_Large,Westpaw,0.2,1799,0,0,0
+222325000036176055,Westpaw Hurley_Aqua blue_Small,Westpaw,0.2,1449,0,0,0
+222325000036175864,Westpaw Hurley_Aqua blue_XSmall,Westpaw,0.2,1199,0,0,0
+222325000036175882,Westpaw Hurley_Green_Small,Westpaw,0.2,1449,0,0,0
+222325000036175900,Westpaw Hurley_Tangarine orange_Small,Westpaw,0.2,1449,0,0,0
+222325000036176064,Westpaw Hurley_Tangarine orange_XSmall,Westpaw,0.2,1199,0,0,0
+222325000036176100,Westpaw Jive_Aqua blue_Large,Westpaw,0.2,1799,0,0,0
+222325000036176109,Westpaw Jive_Aqua blue_XSmall,Westpaw,0.2,1099,0,0,0
+222325000036176118,Westpaw Jive_Green_Large,Westpaw,0.2,1799,0,0,0
+222325000036175918,Westpaw Jive_Green_Small,Westpaw,0.2,1399,0,0,0
+222325000036175927,Westpaw Jive_Green_XSmall,Westpaw,0.2,1099,0,0,0
+222325000036176127,Westpaw Jive_Tangarine orange_Large,Westpaw,0.2,1799,0,0,0
+222325000036176136,Westpaw Jive_Tangarine orange_Small,Westpaw,0.2,1399,0,0,0
+222325000036176145,Westpaw Jive_Tangarine orange_XSmall,Westpaw,0.2,1099,0,0,0
+222325000036176163,Westpaw Merry Bone_Emerald (Green)_Large,Westpaw,0.2,1499,0,0,0
+222325000036175954,Westpaw Mini Merry Bone_Emerald (Green)_Small,Westpaw,0.2,1099,0,0,0
+222325000036176208,Westpaw Rosebud_Pewter Fur ( Brown ),Westpaw,0.2,1899,0,0,0
+222325000036177035,Westpaw Ruff N Tuff Reindeer_Emerald (Green)_Large,Westpaw,0.2,1599,0,0,0
+222325000036176226,Westpaw Rumbl_Eggplant (Purple)_Large,Westpaw,0.2,2299,0,0,0
+222325000036178267,Westpaw Rumbl_Eggplant (Purple)_Small,Westpaw,0.2,1899,0,0,0
+222325000036178294,Westpaw Rumbl_Jungle Green_Large,Westpaw,0.2,2299,0,0,0
+222325000036178465,Westpaw Rumbl_Jungle Green_Small,Westpaw,0.2,1899,0,0,0
+222325000036178664,Westpaw Rumbl_Melon (Orange)_Large,Westpaw,0.2,2299,0,0,0
+222325000036179023,Westpaw Rumbl_Melon (Orange)_Small,Westpaw,0.2,1899,0,0,0
+222325000036177044,Westpaw Rumpus_Aqua blue_Small,Westpaw,0.2,1499,0,0,0
+222325000036177053,Westpaw Rumpus_Green_Medium,Westpaw,0.2,1899,0,0,0
+222325000036179371,Westpaw Rumpus_Green_Small,Westpaw,0.2,1499,0,0,0
+222325000036179490,Westpaw Rumpus_Tangarine orange_Small,Westpaw,0.2,1499,0,0,0
+222325000036177089,Westpaw Tiny Tuff Reindeer_Emerald (Green)_Small,Westpaw,0.2,1099,0,0,0
+222325000036177107,Westpaw Tizzi_Aqua blue_Large,Westpaw,0.2,2099,0,0,0
+222325000036181282,Westpaw Tizzi_Aqua blue_Small,Westpaw,0.2,1599,0,0,0
+222325000036181335,Westpaw Tizzi_Green_Large,Westpaw,0.2,2099,0,0,0
+222325000036181422,Westpaw Tizzi_Green_Small,Westpaw,0.2,1599,0,0,0
+222325000036181695,Westpaw Tizzi_Tangarine orange_Large,Westpaw,0.2,2099,0,0,0
+222325000036181704,Westpaw Tizzi_Tangarine orange_Small,Westpaw,0.2,1599,0,0,0
+222325000036177116,Zogoflex Toppl Treat Toy_Blue_Large,Westpaw,0.2,2399,0,0,0
+222325000036181713,Westpaw Toppl_Aqua blue_Small,Westpaw,0.2,1899,0,0,0
+222325000036181722,Zogoflex Toppl Treat Toy_Green_Large,Westpaw,0.2,2399,0,0,0
+222325000036181731,Westpaw Toppl_Green_Small,Westpaw,0.2,1899,0,0,0
+222325000036177125,Zogoflex Toppl Treat Toy_Orange_large,Westpaw,0.2,2399,0,0,0
+222325000036177134,Westpaw Tux_Aqua blue_Small,Westpaw,0.2,1899,0,0,0
+222325000036181767,Westpaw Zisc_Aqua blue_Large,Westpaw,0.2,1999,0,0,0
+222325000036177188,Westpaw Zisc_Aqua blue_Small,Westpaw,0.2,1499,0,0,0
+222325000036181776,Westpaw Zisc_Glow_Large,Westpaw,0.2,2099,0,0,0
+222325000036181785,Westpaw Zisc_Glow_Small,Westpaw,0.2,1599,0,0,0
+222325000036177197,Westpaw Zisc_Green_Large,Westpaw,0.2,1999,0,0,0
+222325000036181794,Westpaw Zisc_Green_Small,Westpaw,0.2,1499,0,0,0
+222325000036181803,Westpaw Zisc_Tangarine orange_Large,Westpaw,0.2,1999,0,0,0
+222325000036177206,Westpaw Zisc_Tangarine orange_Small,Westpaw,0.2,1499,0,0,0
+222325000036177215,Westpaw Zwig_Eggplant (Purple)_Large,Westpaw,0.2,2099,0,0,0
+222325000036181812,Westpaw Zwig_Jungle Green_Large,Westpaw,0.2,2099,0,0,0
+222325000036177224,Westpaw Zwig_Melon (Orange)_Large,Westpaw,0.2,2099,0,0,0
+222325000036181830,Zogoflex Toppl Treat Toy - Orange Smal,Westpaw,0.2,1899,0,0,0
+222325000036177261,CC Diamond Series Miracle Moisture Conditioner_16 oz.,CC,0.57,3999,0,0,0
+222325000036181850,CC - Diamond Series Miracle Moisture Shampoo_128 oz./3.8L,CC,4.56,13999,0,0,0
+222325000036181859,CC - Diamond Series Miracle Moisture Shampoo_16 oz./473ml,CC,0.57,3599,0,0,0
+222325000036181868,CC Diamond Series Miracle Repair Conditioner_128 oz.,CC,4.54,15999,0,0,0
+222325000036177270,CC Diamond Series Miracle Repair Conditioner_16 oz.,CC,0.57,3999,0,0,0
+222325000036177279,CC - Diamond Series Miracle Repair Shampoo_128 oz./3.8L,CC,4.56,13999,0,0,0
+222325000036181877,CC - Diamond Series Miracle Repair Shampoo_16 oz./473ml,CC,0.57,3599,0,0,0
+222325000036181886,CC - Diamond Series Saving Grace Shampoo_16 oz.473 ml,CC,0.57,4999,0,0,0
+222325000036177288,CC Diamond Series Saving Grace Shampoo_64 oz.,CC,2.27,14999,0,0,0
+222325000036181895,CC Flex For Sure Aerosol_10 oz.,CC,0.35,2999,0,0,0
+222325000036181913,CC - Smart Scents Brooklynn's Sweet 16 oz./473ml,CC,0.57,3999,0,0,0
+222325000036177297,CC Spectrum Ten Soft & Smooth Coat Shampoo_16 oz.,CC,0.57,3199,0,0,0
+222325000036181922,Damage Acana Puppy Small Breed_Medium_6 Kg,Acana,6,6999,0,0,0
+222325000036181958,SE Acana Classic Wild Coast_Small_2 Kg,Acana,2,2799,0,0,0
+222325000036177351,SE Orijen Six Fish Dog_Large_11.4 Kg,Orijen,11.4,15499,0,0,0
+222325000036181976,SE Orijen Original Dog Food_Trial Pack_ 340 G,Orijen,0.34,749,0,0,0
+222325000036181985,SE Orijen Large Breed Puppy Food_Medium_ 6 Kg,Orijen,6,7999,0,0,0
+222325000036181994,SE Orijen Senior_Small_2 Kg,Orijen,2,3599,0,0,0
+222325000036240145,SE Acana Adult Small Breed_Small_2 Kg,Acana,2,2999,0,0,0
+222325000036240163,SE Acana Free-Run Duck_Large_11.4 Kg,Acana,11.4,13799,0,0,0
+222325000036240172,SE Acana Free-Run Duck_Small_2 Kg,Acana,2,3799,0,0,0
+222325000036240181,SE Acana Grass Fed Lamb_Medium 6 Kg,Acana,6,8499,0,0,0
+222325000036240190,SE Acana Grass Fed Lamb_Small_2 Kg,Acana,2,3799,0,0,0
+222325000036238873,SE Acana Light & Fit_Small_2 Kg,Acana,2,3099,0,0,0
+222325000036240199,SE Acana Cat Pacifica Food_Small_1.8 Kg,Acana,1.8,3499,0,0,0
+222325000036240208,SE Acana Puppy Small Breed_Medium_6 Kg,Acana,6,6999,0,0,0
+222325000036238882,SE Orijen Six Fish Dog_Small_2 Kg,Orijen,2,3999,0,0,0
+222325000036238891,SE Orijen Original Dog Food_Small_ 2 Kg,Orijen,2,3599,0,0,0
+222325000036240235,SE Orijen Puppy Food_ Small_ 2 Kg,Orijen,2,3599,0,0,0
+222325000036238900,SE Orijen Senior_Medium_6 Kg,Orijen,6,7999,0,0,0
+222325000037735400,LBP Salmon & Vegetable Terrine_Single Piece_150 G,LBP,0.15,230,0,0,0
+222325000037736299,CC - Diamond Series Miracle Repair Shampoo_4 oz./118 ml,CC,0.14,569,0,0,0
+222325000037735417,"LBP Turkey with Broccoli, Carrots and Cranberries_Single Piece_390 G",LBP,0.39,340,0,0,0
+222325000037736333,CC - Diamond Series Saving Grace Shampoo_4 oz./118 ml,CC,0.14,569,0,0,0
+222325000037735434,LBP Duck and Blueberries_Single Piece_390 G,LBP,0.39,340,0,0,0
+222325000037736350,CC - Precious Drop Keratin Spray Ready to Use_2 oz./59 ml,CC,0.07,649,0,0,0
+222325000037735451,LBP Chicken and Sweet Potato_Single Piece_390 G,LBP,0.39,340,0,0,0
+222325000037736367,CC Just Divine_2 oz./ 59 ml,CC,0.07,649,0,0,0
+222325000037736418,CC - OC Magic Foam Refill_1.7 oz./50 ml,CC,0.06,649,0,0,0
+222325000037736452,CC - GOTCHA! Odor Exploder_2 oz./59 ml,CC,0.07,649,0,0,0
+222325000037736520,CC - Smart Rinse Hypo-allergenic Blend_2 oz./59 ml,CC,0.07,649,0,0,0
+222325000037736537,CC - Smartwash50 Hypo-Allergenic Blend_2 oz./59 ml,CC,0.07,569,0,0,0
+222325000037736554,CC - SmartRinse Hydrating Chamomile_2 oz./59 ml,CC,0.07,649,0,0,0
+222325000037736571,CC - Smart Rinse Vanilla Oatmeal Conditioner_2 oz./59 ml,CC,0.07,649,0,0,0
+222325000037736605,CC - Spectrum One Substance Builder_4 oz./118ml,CC,0.14,649,0,0,0
+222325000037736690,CC Smart Rinse Jungle Apple Conditioner_2 oz./59 ml,CC,0.07,649,0,0,0
+222325000037736707,CC Smartwash50 Jungle Apple Shampoo_128 oz./3.8L,CC,4.56,12999,0,0,0
+222325000037736775,CC Smart Rinse Cherry & Oats Conditioner_12 oz./ 354 ml,CC,0.42,1999,0,0,0
+222325000037736792,CC Smart Rinse Cherry & Oats Conditioner_2 oz./59 ml,CC,0.07,649,0,0,0
+222325000037736809,CC Smartwash50 Cherry & Oats Shampoo_128 oz./3.8L,CC,4.56,12999,0,0,0
+222325000037736877,CC Smart Rinse Tropical Breeze Conditioner_12 oz./ 354 ml,CC,0.42,1999,0,0,0
+222325000037736894,CC Smart Rinse Tropical Breeze Conditioner_2 oz./59 ml,CC,0.07,649,0,0,0
+222325000037736911,CC Smartwash50 Tropical Breeze Shampoo_128 oz./3.8L,CC,4.56,12999,0,0,0
+222325000037736996,CC Smart Rinse Papaya Starfruit Conditioner_2 oz./59 ml,CC,0.07,649,0,0,0
+222325000037737013,CC Smartwash50 Papaya Starfruit Shampoo_128 oz./3.8L,CC,4.56,12999,0,0,0
+222325000037737115,CC Thick N Thicker Conditioner_128 oz./3.8L,CC,4.56,15999,0,0,0
+222325000037737132,CC Thick N Thicker Conditioner_16 oz./473ml,CC,0.57,4799,0,0,0
+222325000037737149,CC Thick N Thicker Shampoo_16 oz./473ml,CC,0.57,4299,0,0,0
+222325000037737166,LBP Tender Turkey (CAT)_Single Piece_85 G,LBP,0.085,180,0,0,0
+222325000037737234,LBP Atlantic Salmon (CAT)_Single Piece_85 G,LBP,0.085,180,0,0,0
+222325000038419559,CC Thick N Thicker Shampoo_128 oz./3.8L,CC,4.56,14999,0,0,0
+222325000038419576,CC Thick N Thicker Leave In_8 Oz,CC,0.28,3999,0,0,0
+222325000038419607,CC Smart Style The Cure_8 oz.,CC,0.28,3499,0,0,0
+222325000038419641,"CC Adalynn Rose - Curve_5""",CC,0.2,29999,0,0,0
+222325000038419658,CC Smart Style The Cure_128 oz./3.8L,CC,4.56,12999,0,0,0
+222325000039347966,Ruffwear Cloud Chaser™ Jacket_Forest Green_X Small,Ruffwear,0.2,6899,0,0,0
+222325000039347983,Ruffwear Cloud Chaser™ Jacket_Forest Green_X X Small,Ruffwear,0.2,6699,0,0,0
+222325000039377853,SE LBP Atlantic Tuna (CAT)_Case_85 G,LBP,1.02,1440,0,0,0
+222325000039381443,Ruffwear Flat Out Collar_New River_Small,Ruffwear,0.2,1899,0,0,0
+222325000039381613,Ruffwear Lunker_Aurora Teal_Medium,Ruffwear,0.2,2199,0,0,0
+222325000039381630,Ruffwear Gourdo_Dandelion Yellow_Small,Ruffwear,0.2,1899,0,0,0
+222325000039381681,Ruffwear Hover Craft_Aurora Teal_large,Ruffwear,0.2,2099,0,0,0
+222325000039689194,CC - Mark VI Curved Back Medium Slicker_Medium,CC,0.2,8999,0,0,0
+222325000039689214,CC Big G Medium Coral Slicker,CC,0.2,9999,0,0,0
+222325000039689232,CC Big K Large Black Slicker,CC,0.2,10999,0,0,0
+222325000039690102,"CC 6"" NTS STaggered Tooth Dematter Buttercomb",CC,0.2,9999,0,0,0
+222325000039690120,"CC - CLASSIC SERIES_Curve (7.5"")",CC,0.2,15999,0,0,0
+222325000039689250,"CC - CLASSIC SERIES_Thinner_(7"")",CC,0.2,15999,0,0,0
+222325000039693793,CC Big G Large Coral Slicker_Large,CC,0.2,10999,0,0,0
+222325000043031181,Ruffwear Switchback Dog Harness_Blue Moon_X Small,Ruffwear,0.2,5899,0,0,0
+222325000043033305,Ruffwear Switchback Dog Harness_Blue Moon_Medium,Ruffwear,0.2,6099,0,0,0
+222325000043111589,Ruffwear Switchback™ Harness Red Sumac X-Small,Ruffwear,0.2,5899,0,0,0
+222325000043280666,SE LBP Tender Duck (CAT)_Single Piece_85 G,LBP,0.085,180,0,0,0
+222325000043279759,SE LBP Tender Turkey (CAT)_Case_85 G,LBP,1.02,1440,0,0,0
+222325000043280684,SE LBP Tender Turkey (CAT)_Single Piece_85 G,LBP,0.085,180,0,0,0
+222325000043279795,SE LBP Tender Chicken (CAT)_Single Piece_85 G,LBP,0.085,180,0,0,0
+222325000043280702,SE LBP Seafood (CAT)_Case_85 G,LBP,1.02,1080,0,0,0
+222325000043280721,SE LBP Atlantic Salmon (CAT)_Case_85 G,LBP,1.02,1440,0,0,0
+222325000043279831,SE LBP Atlantic Salmon (CAT)_Single Piece_85 G,LBP,0.085,180,0,0,0
+222325000043280739,SE LBP Atlantic Tuna (CAT)_Single Piece_85 G,LBP,0.085,180,0,0,0
+222325000043279849,SE LBP Ocean Fish (CAT)_Single Piece_85 G,LBP,0.085,180,0,0,0
+222325000045011589,SE LBP Salmon & Vegetable Terrine_Case_150 G,LBP,1.2,1610,0,0,0
+222325000044988901,SE LBP Salmon & Vegetable Terrine_Single Piece_150 G,LBP,0.15,230,0,0,0
+222325000045011607,"SE LBP Turkey with Broccoli, Carrots and Cranberries_Case_390 G",LBP,4.68,4080,0,0,0
+222325000044988919,SE Little Big Paw - Turkey and Broccoli_Single Pcs - 390 Grams,LBP,0.39,340,0,0,0
+222325000044988937,SE LBP Chicken and Sweet Potato_Case_390 G,LBP,4.68,4080,0,0,0
+222325000045011625,SE Little Big Paw - Chicken and Sweet Potato - 390 Grams,LBP,4.68,340,0,0,0
+222325000044988955,SE LBP Duck and Blueberries_Case_390 G,LBP,4.68,4080,0,0,0
+222325000045011643,SE Little Big Paw - Duck and Blueberries_Single Pcs - 390 Grams,LBP,0.39,340,0,0,0
+222325000045012351,SE Orijen Puppy Food_ Medium_ 6 Kg,Orijen,6,7999,0,0,0
+222325000045012369,SE Orijen Puppy Food_ Trial Pack_ 340 G,Orijen,0.34,749,0,0,0
+222325000045593787,Ruffwear Dog Mannequin_Gray_Std,Ruffwear,0.2,6999,0,0,0
+222325000046165179,CC - Just Divine Brushing Spray Concentrate_16 Oz/ 473 ml,CC,0.57,5499,0,0,0
+222325000046165197,Oval Pin Brush Gold Series_(35 MM),CC,0.2,9999,0,0,0
+222325000046167001,CC - Oval Breezy Brush_16 MM Firm Pad (pink),CC,0.2,4499,0,0,0
+222325000046165215,CC - Oval Breezy Brush_16 MM Medium Pad (Green),CC,0.2,4499,0,0,0
+222325000046167019,CC - Oval Breezy Brush_16 MM Soft Pad (Purple),CC,0.2,4499,0,0,0
+222325000046165233,CC - Oval Breezy Brush_22 MM Firm Pad (Pink),CC,0.2,4499,0,0,0
+222325000046167037,CC - Oval Breezy Brush_22 MM Medium Pad (Green),CC,0.2,4499,0,0,0
+222325000046165251,CC - Oval Breezy Brush_22 MM Soft Pad (Purple),CC,0.2,4499,0,0,0
+222325000047349617,Ice Slip Dematting Brush Oblong_20 mm,CC,0.2,7399,0,0,0
+222325000049789515,SE Orijen Six Fish Dog_Medium_6 Kg,Orijen,6,8999,0,0,0
+222325000049791352,SE Orijen Original Dog Food_Large_11.4 Kg,Orijen,11.4,13999,0,0,0
+222325000049811101,SE Orijen Original Dog Food_XLarge_17 Kg,Orijen,17,17999,0,0,0
+222325000049811137,SE Acana Puppy Small Breed_Small_2 Kg,Acana,2,2999,0,0,0
+222325000049791388,SE Acana Light & Fit_Medium_6 Kg,Acana,6,6999,0,0,0
+222325000049811155,SE Acana Light & Fit_Large_11.4 Kg,Acana,11.4,11999,0,0,0
+222325000049811173,SE Acana Grass Fed Lamb_Large 11.4 Kg,Acana,11.4,13799,0,0,0
+222325000049791406,SE Acana Adult Small Breed_Medium_6 Kg,Acana,6,6999,0,0,0
+222325000049811191,SE Acana Adult Large Breed_Large_11.4 Kg,Acana,11.4,11999,0,0,0
+222325000049811209,SE Acana Classic Prairie Poultry_Small_2 Kg,Acana,2,2599,0,0,0
+222325000049847751,Ruffwear Cloud Chaser_Obsidian Black_XX Small,Ruffwear,0.2,6699,0,0,0
+222325000049847769,Ruffwear Cloud Chaser_Obsidian Black_X Small,Ruffwear,0.2,6899,0,0,0
+222325000049848071,Ruffwear Cloud Chaser_Obsidian Black_Small,Ruffwear,0.2,7099,0,0,0
+222325000049848089,Ruffwear Cloud Chaser_Obsidian Black_Medium,Ruffwear,0.2,7299,0,0,0
+222325000049847787,Ruffwear Cloud Chaser_Obsidian Black_Large,Ruffwear,0.2,7499,0,0,0
+222325000050049039,Ruffwear Front Range Leash_Blue Moon,Ruffwear,0.2,1999,0,0,0
+222325000050912585,SE Orijen Large Breed Puppy Food_Large_11.4 Kg,Orijen,11.4,13999,0,0,0
+222325000050913123,Orijen Puppy Food_Large_ 11.4 Kg,Orijen,11.4,13999,0,0,0
+222325000051243669,Damage Orijen Puppy Food_Large_ 11.4 Kg,Orijen,11.4,13999,0,0,0
+222325000051243687,SE Orijen Puppy Food_Large_ 11.4 Kg,Orijen,11.4,13999,0,0,0
+222325000051851339,CC Colestral Tube_8 oz/236 ml,CC,0.28,3299,0,0,0
+222325000052020622,SE LBP Chicken & Duck & Turkey_Case_390 G,LBP,0,2040,0,0,0
+222325000052137019,SE LBP Chicken & Duck & Turkey_Case_390 G,LBP,0,2040,0,0,0
+222325000052138055,SE LBP Turkey & Vegetable Dinner_Single Piece_150 G,LBP,0.15,230,0,0,0
+222325000052183043,CC - Kool dry 2Xtreme Dryer_240v_Blue,CC,0.2,69999,0,0,0
+222325000052195001,Fair Advantage Shampoo_16 oz./473ml,CC,0.57,3399,0,0,0
+222325000052195019,Fair Advantage Shampoo_128 oz./3.8L,CC,4.56,14999,0,0,0
+222325000052195037,Pro Line Pro Gro Conditioner_16 oz./473ml,CC,0.57,4299,0,0,0
+222325000052187067,Pro Line Pro Gro Conditioner_128 oz./3.8L,CC,4.56,22999,0,0,0
+222325000052195055,Poodle Butter Comb,CC,0.2,7559,0,0,0
+222325000052187085,CC - Classic Series Shear Set_Set of Four,CC,0.2,61999,0,0,0
+222325000053453363,CC - Original Series Oblong Brush_Small (20 MM),CC,0.2,5499,0,0,0
+222325000053451478,CC - Original Series Oblong Brush_Large (27 MM),CC,0.2,7499,0,0,0
+222325000053610001,Ruffwear Approach Pack_Campfire Orange_Small,Ruffwear,0.2,9399,0,0,0
+222325000053648242,Ruffwear Knot a Leash_Hibiscus Pink_Small,Ruffwear,0.2,2799,0,0,0
+222325000053654055,Ruffwear Knot a Leash_Red Sumac_Small,Ruffwear,0.2,2799,0,0,0
+222325000053648278,Ruffwear Knot a Leash_Blue Moon_Small,Ruffwear,0.2,2799,0,0,0
+222325000053648314,Ruffwear Knot a Leash_Aurora Teal_Small,Ruffwear,0.2,2799,0,0,0
+222325000053654091,Ruffwear Knot a Leash_Lichen Green_Small,Ruffwear,0.2,2799,0,0,0
+222325000053654109,Ruffwear Knot a Leash_Obsidian Black_Small,Ruffwear,0.2,2799,0,0,0
+222325000053654127,Ruffwear Knot a Collar_Blue Moon_Large,Ruffwear,0.2,2399,0,0,0
+222325000053648472,Ruffwear Knot a Collar_Blue Moon_Small,Ruffwear,0.2,2299,0,0,0
+222325000053654145,Ruffwear Knot a Collar_Hibiscus Pink_Large,Ruffwear,0.2,2399,0,0,0
+222325000053648490,Ruffwear Knot a Collar_Hibiscus Pink_Small,Ruffwear,0.2,2299,0,0,0
+222325000053654163,Ruffwear Knot a Collar_Red Sumac_Large,Ruffwear,0.2,2399,0,0,0
+222325000053654181,Ruffwear Knot a Collar_Red Sumac_Small,Ruffwear,0.2,2299,0,0,0
+222325000053648508,Ruffwear Knot a Collar_Aurora Teal_Large,Ruffwear,0.2,2399,0,0,0
+222325000053648526,Ruffwear Knot a Collar_Aurora Teal_Small,Ruffwear,0.2,2299,0,0,0
+222325000053654199,Ruffwear Knot a Collar_Lichen Green_Large,Ruffwear,0.2,2399,0,0,0
+222325000053654217,Ruffwear Knot a Collar_Obsidian Black_Small,Ruffwear,0.2,2299,0,0,0
+222325000053648544,Ruffwear Knot a Collar_Lichen Green_Small,Ruffwear,0.2,2299,0,0,0
+222325000053654235,Ruffwear Knot a Collar_Obsidian Black_Large,Ruffwear,0.2,2399,0,0,0
+222325000053654253,Ruffwear SUN SHOWER™ RAIN JACKET_Hibiscus Pink_X Large,Ruffwear,0.2,5499,0,0,0
+222325000053654433,Ruffwear Just a Cinch Leash_Aurora Teal,Ruffwear,0.2,2699,0,0,0
+222325000053648652,Ruffwear Just a Cinch Leash_Lichen Green,Ruffwear,0.2,2699,0,0,0
+222325000053777717,SE LBP Turkey & Vegetable Dinner_Case_150 G,LBP,1.2,1610,0,0,0
+222325000053777735,SE LBP Duck & Vegetable Dinner_Case_150 G,LBP,1.2,1610,0,0,0
+222325000054225386,"CC - Adalynn Rose Shears_Curve (7"")",CC,0.2,32999,0,0,0
+222325000054488491,iGroom Magic Powder Spray_White Clay_25g,Igroom,0.03125,2399,0,0,0
+222325000054488509,iGroom Magic Powder Spray_Charcoal_25g,Igroom,0.03125,2399,0,0,0
+222325000054488581,iGroom Squalane Antifrizz Spray_6 Oz/177 ml,Igroom,0.2124,2399,0,0,0
+222325000054505501,"iGroom Magic Boost Spray	_8 Oz/236 ml",Igroom,0.2832,2199,0,0,0
+222325000054488797,iGroom Prebiotic Conditioner_13.5 Oz/399 ml,Igroom,0.4788,2799,0,0,0
+222325000054505573,iGroom Deshedding + Detangling Conditioner_16 Oz/473 ml,Igroom,0.5676,2699,0,0,0
+222325000054505627,iGroom Charcoal + Keratin Conditioner_16 Oz/473 ml,Igroom,0.5676,2599,0,0,0
+222325000054505735,iGroom Banana Shampoo_16 Oz/473 ml,Igroom,0.5676,2219,0,0,0
+222325000054505771,iGroom Clarifying Shampoo_16 Oz/473 ml,Igroom,0.5676,2219,0,0,0
+222325000054505807,iGroom Vavoom Volumizing Shampoo_16 Oz/473 ml,Igroom,0.5676,2219,0,0,0
+222325000054509049,iGroom Tearless Facial Shampoo_16 Oz/473 ml,Igroom,0.5676,2129,0,0,0
+222325000054505879,iGroom Tearless Facial Shampoo_1 Gallon,Igroom,4.542492,7999,0,0,0
+222325000054505933,iGroom Squeaky Clean Shampoo_Standard_16 Oz,Igroom,0.567811,1949,0,0,0
+222325000054505969,iGroom Shape It Spray_Standard_10 Oz,Igroom,0.354882,2499,0,0,0
+222325000054621662,"Ruffwear Grip Trex Shoes (Set of two)_Red Sumac_2.00""",Ruffwear,0.2,3249,0,0,0
+222325000054642015,"Ruffwear Grip Trex Shoes (Set of  Two)_Red Sumac_2.25""",Ruffwear,0.2,3299,0,0,0
+222325000054621680,"Ruffwear Grip Trex Shoes (Set of Two)_Red Sumac_2.50""",Ruffwear,0.2,3349,0,0,0
+222325000054621698,"Ruffwear Grip Trex Shoes (Set of Two)_Red Sumac_3.00""",Ruffwear,0.2,3449,0,0,0
+222325000054642051,Ruffwear Grip Trex Shoes (Set of Two)_Red Sumac_3.25,Ruffwear,0.2,3499,0,0,0
+222325000055127093,iGroom Perfume_Banana_(100 ml),Igroom,0.12,4999,0,0,0
+222325000055127129,iGroom Perfume_Sweet Petals_(100 ml),Igroom,0.12,4999,0,0,0
+222325000055136181,iGroom Perfume_LOVE Me_(100 ml),Igroom,0.12,4999,0,0,0
+222325000055573203,Ruffwear HI & LIGHT Harness_Lichen Green_XXX Small,Ruffwear,0.2,4299,0,0,0
+222325000055571051,Ruffwear HI & LIGHT Harness_Lichen Green_XX Small,Ruffwear,0.2,4399,0,0,0
+222325000055573257,Ruffwear HI & LIGHT Harness_Sage Green_XX Small,Ruffwear,0.2,4399,0,0,0
+222325000055737821,DOG FOOD,,0.02,9999,0,0,0
+222325000055904315,SE Acana Puppy Large Breed_X Large_17 Kg,Acana,17,16399,0,0,0
+222325000055904333,SE Orijen Senior_Large_11.4 Kg,Orijen,11.4,13999,0,0,0
+222325000056066359,DOG ACCESSORIES,,0.02,4199,0,0,0
+222325000056069372,GOODS DAMAGED,Others,0.02,5999,0,0,0
+222325000056069390,FOC SALE,Others,0.02,5999,0,0,0
+222325000056069399,EVENT SALE,Others,0.02,5999,0,0,0
+222325000056069408,INCENTIVE ON SALE,Others,0.02,5999,0,0,0
+222325000056240297,Ruffwear Front Range Harness_Red Clay_XX Small,Ruffwear,0.2,4399,0,0,0
+222325000056239304,Ruffwear Front Range Harness_Red Clay_X Small,Ruffwear,0.2,4499,0,0,0
+222325000056240333,Ruffwear Flagline Dog Harness_Sage Green_Small,Ruffwear,0.2,6099,0,0,0
+222325000056240423,Ruffwear Front Range Harness_Purple Sage_XX Small,Ruffwear,0.2,4399,0,0,0
+222325000056445239,Orijen Original Cat Dry Food_Trial Pack 340 G,Orijen,0.34,899,0,0,0
+222325000056444545,Orijen Original Cat Dry Food_Small_1.8 Kg,Orijen,1.8,3999,0,0,0
+222325000056444563,Orijen Original Cat Dry Food_Medium_5.4 Kg,Orijen,5.4,8499,0,0,0
+222325000056444581,Orijen Original Cat Dry Food_XLarge 17 Kg,Orijen,17,19999,0,0,0
+222325000056582303,"NS CC Adalynn Rose Curve Shear_Thinner (7"")",CC,0.2,34999,0,0,0
+222325000056646145,Acana Cat Pacifica_Medium_4.5 Kg,Acana,4.5,7399,0,0,0
+222325000057094878,Ruffwear Front Range Harness_Purple Sage_Small,Ruffwear,0.2,4599,0,0,0
+222325000057107195,Ruffwear Front Range Collar_Red Clay_Small,Ruffwear,0.2,1449,0,0,0
+222325000057255609,Orijen Small Breed_Small_1.8 Kg,Orijen,1.8,3599,0,0,0
+222325000057255627,Orijen Small Breed_Medium_4.5 Kg,Orijen,4.5,6999,0,0,0
+222325000057255789,Damage Orijen Original Cat Dry Food_Medium_5.4 Kg,Orijen,5.4,8499,0,0,0
+222325000057422017,Damage Orijen Small Breed_Small_1.8 Kg,Orijen,1.8,3599,0,0,0
+222325000057435001,Damage Orijen Original Cat Dry Food_Small_1.8 Kg,Orijen,1.8,3999,0,0,0
+222325000057435019,Damage Orijen Original Cat Dry Food_Trial Pack 340 G,Orijen,0.34,899,0,0,0
+222325000058425857,CC - Fresh Faced Tearless Facial Wash_8 Oz/236 ml,CC,0.28,3199,0,0,0
+222325000059581491,Zogoflex Snorkl_Surf_Large,Westpaw,0.2,1999,0,0,0
+222325000059570895,Zogoflex Snorkl_Hibisucs_Large,Westpaw,0.2,1999,0,0,0
+222325000059570913,Zogoflex Snorkl_Emeral_Large,Westpaw,0.2,1999,0,0,0
+222325000059581509,Zogoflex Sailz_Emerald_Large,Westpaw,0.2,1899,0,0,0
+222325000059570931,Zogoflex Sailz_Surf_Large,Westpaw,0.2,1899,0,0,0
+222325000059570949,Zogoflex Sailz_Hibiscus_Large,Westpaw,0.2,1899,0,0,0
+222325000059581527,Zogoflex Drifty_Hibiscus_Small,Westpaw,0.2,1499,0,0,0
+222325000059581545,Zogoflex Drifty_Hibiscus_Large,Westpaw,0.2,1799,0,0,0
+222325000059581563,Zogoflex Drifty_Emerald_Small,Westpaw,0.2,1499,0,0,0
+222325000059570967,Zogoflex Drifty_Emerald_Large,Westpaw,0.2,1799,0,0,0
+222325000059581581,Zogoflex Drifty_Surf_Small,Westpaw,0.2,1499,0,0,0
+222325000059570985,Zogoflex Drifty_Surf_Large,Westpaw,0.2,1799,0,0,0
+222325000059614003,"NS CC - CLASSIC SERIES_Straight (8"")",CC,0.2,15999,0,0,0
+222325000059614021,Zogoflex Toppl Treat Toy_Orange_XLarge,Westpaw,0.2,2899,0,0,0
+222325000059614039,Zogoflex Toppl Treat Toy_Blue_XLarge,Westpaw,0.2,2899,0,0,0
+222325000059638059,Wooden Pallet Scrap,Others,0.02,199,0,0,0
+222325000061035121,Business Support Services,Others,0.02,1,0,0,0
+222325000061397607,CC- Charging Stand Battery,CC,0.2,16999,0,0,0
+222325000061407627,CC- Clipper Switch,CC,0.2,699,0,0,0
+222325000061404633,CC- Device With Notch Switch,CC,0.2,699,0,0,0
+222325000061407647,CC - Artemis Clipper_(White),CC,0.2,64999,0,0,0
+222325000061404651,CC Replacement Battery,CC,0.2,13999,0,0,0
+222325000061407667,CC - High Carbon Steel Blade_10,CC,0.2,7999,0,0,0
+222325000061404669,CC - High Carbon Steel Blade_30,CC,0.2,7999,0,0,0
+222325000061397625,CC - High Carbon Steel Blade_40,CC,0.2,7999,0,0,0
+222325000061397643,CC - High Carbon Steel Blade_5F,CC,0.2,11999,0,0,0
+222325000061397661,CC- 5 Pc Comb Set,CC,0.2,8889,0,0,0
+222325000061404723,CC - Top Cat Anti Static Spray_8 Oz/236 ml,CC,0.28,2399,0,0,0
+222325000061397679,CC - Top Cat Brilliant Black Shampoo_8 Oz/236 ml,CC,0.28,2129,0,0,0
+222325000061404741,CC - Top Cat Clarifying Shampoo_2 Oz/59 ml,CC,0.07,839,0,0,0
+222325000061397697,CC - Top Cat Clarifying Shampoo_16 Oz/473 ml,CC,0.57,2129,0,0,0
+222325000061397715,CC- Clipper Motor,CC,0.2,18999,0,0,0
+222325000061404759,CC- Circuit Board,CC,0.2,4999,0,0,0
+222325000061397733,CC- Thrust Washer,CC,0.2,499,0,0,0
+222325000061404795,CC- Blade Tap,CC,0.2,2399,0,0,0
+222325000061407703,CC- Lock Washer,CC,0.2,499,0,0,0
+222325000061397751,CC- Calotte - Lever,CC,0.2,1999,0,0,0
+222325000061407721,CC- Button Of Contacts,CC,0.2,1199,0,0,0
+222325000061407739,CC - Top Cat Finishing Rinse_8 Oz/236 ml,CC,0.28,2399,0,0,0
+222325000061397805,CC - Pre-Bath Degreaser_16 Oz/473 ml,CC,0.57,3499,0,0,0
+222325000061404831,CC - Top Cat Shine Shampoo_2 Oz/59 ml,CC,0.07,839,0,0,0
+222325000061397823,CC - Shine Shampoo_16 Oz/473 ml,CC,0.57,2309,0,0,0
+222325000061407757,CC- Volumizing Shampoo_2 Oz/59 ml,CC,0.07,839,0,0,0
+222325000061404849,CC- Volumizing Shampoo_16 Oz/473 ml,CC,0.57,2309,0,0,0
+222325000061404867,CC- Top Cat Wonderful White Shampoo_8 Oz/236ml,CC,0.28,2129,0,0,0
+222325000061421083,CC - Top Cat Facial Wash Shampoo_8 Oz/236 ml,CC,0.28,1769,0,0,0
+222325000061421605,Orijen Kitten_Medium_5.4 Kg,Orijen,5.4,8499,0,0,0
+222325000061421623,Acana Puppy_Small_ 2 Kg,Acana,2,2999,0,0,0
+222325000061421641,Acana Puppy_Medium_6 Kg,Acana,6,6999,0,0,0
+222325000061421659,Acana Puppy_Large_11.4 Kg,Acana,11.4,11999,0,0,0
+222325000061421677,Orijen Kitten_Small_1.8 Kg,Orijen,1.8,3999,0,0,0
+222325000062878001,Ruffwear Swamp Cooler Neck Gaiter_Aurora Teal/ Heliotrope Purple_XX Small,Ruffwear,0.2,1899,0,0,0
+222325000062877019,Ruffwear Swamp Cooler Neck Gaiter_Aurora Teal/ Heliotrope Purple_X Small,Ruffwear,0.2,1899,0,0,0
+222325000062879001,Ruffwear Swamp Cooler Neck Gaiter_Aurora Teal/ Heliotrope Purple_Small,Ruffwear,0.2,1999,0,0,0
+222325000062879019,Swamp Cooler Neck Gaiter_Aurora Teal/ Heliotrope Purple_X Large,Ruffwear,0.2,2099,0,0,0
+222325000062877091,"Ruffwear Confluence Collar_Aurora Teal_Medium (14""-20"")",Ruffwear,0.2,2899,0,0,0
+222325000062879073,"Ruffwear Confluence Collar_Aurora Teal_Large (20""-26"")",Ruffwear,0.2,2999,0,0,0
+222325000062877109,"Ruffwear Confluence Collar_Midnight Blue_Medium (14""-20"")",Ruffwear,0.2,2899,0,0,0
+222325000062877127,"Ruffwear Confluence Collar_Midnight Blue_Large (20""-26"")",Ruffwear,0.2,2999,0,0,0
+222325000062877145,"Ruffwear Confluence Collar_Red Sumac_Medium (14""-20"")",Ruffwear,0.2,2899,0,0,0
+222325000062879091,"Ruffwear Confluence Collar_Red Sumac_Large (20""-26"")",Ruffwear,0.2,2999,0,0,0
+222325000062878073,"Ruffwear Hi & Light Collar_Blue Dusk_Medium (14""-20"")",Ruffwear,0.2,2099,0,0,0
+222325000062878091,"Ruffwear Hi & Light Collar_Blue Dusk_Large (20""-26"")",Ruffwear,0.2,2199,0,0,0
+222325000062878127,"Ruffwear Hi & Light Collar_Lichen Green_Medium (14""-20"")",Ruffwear,0.2,2099,0,0,0
+222325000062879109,"Ruffwear Hi & Light Collar_Lichen Green_Large (20""-26"")",Ruffwear,0.2,2199,0,0,0
+222325000062877181,"Ruffwear Hi & Light Collar_Sage Green_Small (11""-14"")",Ruffwear,0.2,1999,0,0,0
+222325000062878145,"Ruffwear Hi & Light Collar_Sage Green_Medium (14""-20"")",Ruffwear,0.2,2099,0,0,0
+222325000062877199,"Ruffwear Hi & Light Collar_Sage Green_Large (20""-26"")",Ruffwear,0.2,2199,0,0,0
+222325000062877217,"Ruffwear Hi & Light Collar_Salmon Pink_Medium (14""-20"")",Ruffwear,0.2,2099,0,0,0
+222325000062878181,"Ruffwear Hi & Light Collar_Salmon Pink_Large (20""-26"")",Ruffwear,0.2,2199,0,0,0
+222325000062877253,"Ruffwear Hi & Light Collar_Lichen Green_X Small (9""-11"")",Ruffwear,0.2,1899,0,0,0
+222325000062878199,"Ruffwear Hi & Light Collar_Sage Green_X Small (9""-11"")",Ruffwear,0.2,1899,0,0,0
+222325000062879217,Ruffwear Swamp Cooler Harness_Graphite Gray_X Small,Ruffwear,0.2,6599,0,0,0
+222325000062877343,Ruffwear Swamp Cooler Harness_Graphite Gray_Small,Ruffwear,0.2,6699,0,0,0
+222325000062877361,Ruffwear Swamp Cooler Harness_Graphite Gray_Medium,Ruffwear,0.2,6799,0,0,0
+222325000062878271,Ruffwear Swamp Cooler Harness_Graphite Gray_Large/X Large,Ruffwear,0.2,6899,0,0,0
+222325000062877379,Ruffwear Switchback Dog Harness_Granite Gray_X Small,Ruffwear,0.2,5899,0,0,0
+222325000062878307,Ruffwear WebMaster Harness_Blaze Orange_Medium,Ruffwear,0.2,6899,0,0,0
+222325000062879253,Ruffwear WebMaster Harness_Red Sumac_XX Small,Ruffwear,0.2,6599,0,0,0
+222325000062877415,Ruffwear WebMaster Harness_Red Sumac_X Small,Ruffwear,0.2,6699,0,0,0
+222325000062877451,Ruffwear Flagline Dog Leash_Lichen Green_Standard,Ruffwear,0.2,2899,0,0,0
+222325000062878343,Ruffwear Flagline Dog Leash_Sage Green_Standard,Ruffwear,0.2,2899,0,0,0
+222325000062878361,Ruffwear Hi & Light Leash_Blue Dusk_Standard,Ruffwear,0.2,2499,0,0,0
+222325000062877487,Ruffwear Hi & Light Leash_Lichen Green_Standard,Ruffwear,0.2,2499,0,0,0
+222325000062879307,Ruffwear Home Trail Hip Pack_Heliotrope Purple_Standard,Ruffwear,0.2,4499,0,0,0
+222325000062877523,Ruffwear Home Trail Hip Pack_Red Sumac_Standard,Ruffwear,0.2,4499,0,0,0
+222325000062878910,Damage Orijen Kitten_Medium_5.4 Kg,Orijen,5.4,8499,0,0,0
+222325000063059021,Damage Orijen Original Cat Dry Food_XLarge 17 Kg,Orijen,17,19999,0,0,0
+222325000063316665,Ruffwear Trail Runner System_Granite Gray,Ruffwear,0.2,6899,0,0,0
+222325000063398001,Ruffwear Trail Runner™ Bowl_Blue Pool_Std,Ruffwear,0.2,1799,0,0,0
+222325000064967421,Fabled Happy To Sea_Adult Fish Recipe_(250 gms),Fabled,0.25,399,0,0,0
+222325000064966417,Fabled Happy To Sea_Adult Fish Recipe_(2 Kg),Fabled,2,2299,0,0,0
+222325000064967439,Fabled Happy To Sea_Adult Fish Recipe_(6 Kg),Fabled,6,5999,0,0,0
+222325000064966435,Fabled Happy To Sea_Adult Fish Recipe_(11.4 Kg),Fabled,11.4,10299,0,0,0
+222325000064966453,Fabled Eager To Me_Adult Poultry Recipe_(250 gms),Fabled,0.25,399,0,0,0
+222325000064967475,Fabled Eager To Me_Adult Poultry Recipe_(2 Kg),Fabled,2,1999,0,0,0
+222325000064968379,Fabled Eager To Me_Adult Poultry Recipe_(6 Kg),Fabled,6,5499,0,0,0
+222325000064966471,Fabled Eager To Me_Adult Poultry Recipe_(11.4 Kg),Fabled,11.4,9799,0,0,0
+222325000064968397,Fabled Eager To Me_Adult Poultry Recipe_(20 Kg),Fabled,20,12999,0,0,0
+222325000064968415,Fabled Gentle Giants_Puppy Large Breed Recipe_(250 gms),Fabled,0.25,399,0,0,0
+222325000064968433,Fabled Gentle Giants_Puppy Large Breed Recipe_(2 Kg),Fabled,2,1999,0,0,0
+222325000064967493,Fabled Gentle Giants_Puppy Large Breed Recipe_(6 Kg),Fabled,6,5499,0,0,0
+222325000064967511,Fabled Gentle Giants_Puppy Large Breed Recipe_(11.4 Kg),Fabled,11.4,9799,0,0,0
+222325000064968451,Fabled Grow Little One_Puppy Small breed recipe_(250 gms),Fabled,0.25,399,0,0,0
+222325000064968469,Fabled Grow Little One_Puppy Small breed recipe_(2 kg),Fabled,2,1999,0,0,0
+222325000064966507,Fabled Grow Little One_Puppy Small breed recipe_(6 kg),Fabled,6,5499,0,0,0
+222325000064967529,Fabled Grow Little One_Puppy Small breed recipe_(20 kg),Fabled,20,12999,0,0,0
+222325000064966525,Fabled Well Begun_Stater Recipe_(250 gms),Fabled,0.25,399,0,0,0
+222325000064966543,Fabled Well Begun_Starter Recipe_(2 kg),Fabled,2,1999,0,0,0
+222325000064966561,Fabled Well Begun_Starter Recipe_(20 kg),Fabled,20,12999,0,0,0
+222325000065457027,SE Acana Puppy_Medium_6 Kg,Acana,6,6999,0,0,0
+222325000065566017,SE Orijen Original Cat Dry Food_Trial Pack 340 G,Orijen,0.34,899,0,0,0
+222325000065566035,SE Orijen Original Cat Dry Food_Small_1.8 Kg,Orijen,1.8,3999,0,0,0
+222325000065551299,SE Orijen Original Cat Dry Food_Medium_5.4 Kg,Orijen,5.4,8499,0,0,0
+222325000065544138,SE Orijen Original Cat Dry Food_XLarge 17 Kg,Orijen,17,19999,0,0,0
+222325000066498221,Damage Orijen Kitten_Small_1.8 Kg,Orijen,1.8,3999,0,0,0
+222325000067325215,CC ChrisStix_White,CC,0.2,1699,0,0,0
+222325000067320071,CC ChrisStix_Black,CC,0.2,1699,0,0,0
+222325000067325259,CC ChrisStix_Tan,CC,0.2,1499,0,0,0
+222325000067323071,CC ChrisStix_Gray Blue,CC,0.2,1399,0,0,0
+222325000067323107,CC - White Ice Spray_Standard_3oz/125 ml,CC,0.15,2999,0,0,0
+222325000067320089,CC - SmartWash50 Whitening Shampoo_16 oz/ 473 ml,CC,0.57,3499,0,0,0
+222325000067325277,CC - SmartWash50 Whitening Shampoo_128 Oz/3.8 L,CC,4.56,13999,0,0,0
+222325000067320107,CC - Black Ice Spray_Standard_3oz/125 ml,CC,0.15,2999,0,0,0
+222325000067325295,CC - Argento After Shave Balm_Standard_8oz/236ml,CC,0.28,4599,0,0,0
+222325000067320125,CC - Argento After Shave Spray_Standard_8oz/236 ml,CC,0.28,4599,0,0,0
+222325000067325313,CC - Proline Lanny's Terrier Chalk_8oz/227gms,CC,0.2,2499,0,0,0
+222325000067320143,CC - Color Effects Chalk Block_Std_White,CC,0.2,1999,0,0,0
+222325000067325331,CC - Color Effects Chalk Block_Std_Rich Ebony,CC,0.2,1999,0,0,0
+222325000067320161,CC - Smart Rinse All Coat Conditioner_16 oz/473 ml,CC,0.57,3499,0,0,0
+222325000067323125,CC - Smart Rinse All Coat Conditioner_128 oz/3.8 L,CC,4.56,13999,0,0,0
+222325000067325349,CC - Smart Rinse De-Shed Conditioner_16 Oz/473 ml,CC,0.57,3199,0,0,0
+222325000067320179,CC - Smart Rinse De-Shed Conditioner_128 Oz/3.8 L,CC,4.56,13999,0,0,0
+222325000067325367,CC - SmartWash50 De-Shed Shampoo_16 Oz/473 ml,CC,0.57,3499,0,0,0
+222325000067323143,CC - SmartWash50 De-Shed Shampoo_128 Oz/ 3.8 L,CC,4.56,13999,0,0,0
+222325000067323161,CC - Thick-N-Thicker Texturizing Bodifier_10 Oz/296 ml,CC,0.36,3499,0,0,0
+222325000067325385,"CC - Safety Symmetry Mat_Std_36X24""",CC,0.2,18999,0,0,0
+222325000067320215,"CC - Safety Symmetry Mat_Std_42 x 24""",CC,0.2,21999,0,0,0
+222325000067325439,CC - Top Cat Brilliant Black Shampoo_32 Oz/946 ml,CC,1.14,5329,0,0,0
+222325000067320233,CC - Top Cat Clarifying Shampoo_32 Oz/946 ml,CC,1.14,3999,0,0,0
+222325000067325457,CC - Top Cat Facial Wash Shampoo_32 Oz/946 ml,CC,1.14,5329,0,0,0
+222325000067325475,CC - Shine Shampoo_32 Oz/946 ml,CC,1.14,4439,0,0,0
+222325000067320251,CC- Volumizing Shampoo_32 Oz/946 ml,CC,1.14,4439,0,0,0
+222325000067380173,Damage Acana Puppy_Medium_6 Kg,Acana,6,6999,0,0,0
+222325000067391059,Damage Acana Puppy_Small_ 2 Kg,Acana,2,2999,0,0,0
+222325000067391077,Damage Acana Puppy_Large_11.4 Kg,Acana,11.4,11999,0,0,0
+222325000068058405,SE Acana Cat Pacifica_Medium_4.5 Kg,Acana,4.5,7399,0,0,0
+222325000068381035,Ruffwear Knot a Hitch_Standard_Red Clay,Ruffwear,0.2,5999,0,0,0
+222325000068877687,Damage Sustainably yours Multi cat Large Grains_Large (11.8 kg),SY,11.8,4199,0,0,0
+222325000070136131,Damage Sustainably Yours Large Grains 5.9 KG,SY,5.9,2299,0,0,0
+222325000070411053,NS CC - Artemis Clipper_(White),CC,0.2,64999,0,0,0
+222325000070942021,SE Orijen Kitten_Medium_5.4 Kg,Orijen,5.4,8499,0,0,0
+222325000070942040,SE Acana Puppy_Large_11.4 Kg,Acana,11.4,11999,0,0,0
+222325000071928055,NS CC - Kool dry 2Xtreme Dryer_240v_Black,CC,0.2,69999,0,0,0
+222325000073526189,Ruffwear Climate Changer Pullover_Blossom_X-Small,Ruffwear,0.2,5799,0,0,0
+222325000073526207,Ruffwear Climate Changer Pullover_Blossom_Small,Ruffwear,0.2,5899,0,0,0
+222325000073526225,Ruffwear Climate Changer Pullover_Blossom_Medium,Ruffwear,0.2,5999,0,0,0
+222325000073526243,Ruffwear Quencher™ Dog Bowl_Fired Brick_Medium,Ruffwear,0.2,1999,0,0,0
+222325000073547151,Ruffwear Quencher™ Dog Bowl_Huckleberry Blue_Medium,Ruffwear,0.2,1999,0,0,0
+222325000073526333,Ruffwear Web Reaction Collar_Blue Dusk_Xsmall,Ruffwear,0.2,1899,0,0,0
+222325000073526495,Ruffwear Trail Runner Belt_Lichen Green_Large/X-Large,Ruffwear,0.2,3999,0,0,0
+222325000073541241,"Ruffwear Hi & light Trail Shoes_Blue Pool_(Set of Two)1.50""",Ruffwear,0.2,2849,0,0,0
+222325000073547259,"Ruffwear Hi & light Trail Shoes_Blue Pool_(Set of Two)1.75""",Ruffwear,0.2,2899,0,0,0
+222325000073541259,"Ruffwear Hi & light Trail Shoes_Blue Pool_(Set of Two)2.00""",Ruffwear,0.2,2949,0,0,0
+222325000073547277,"Ruffwear Hi & light Trail Shoes_Blue Pool_(Set of Two)2.25""",Ruffwear,0.2,2999,0,0,0
+222325000073547295,"Ruffwear Hi & light Trail Shoes_Blue Pool_(Set of Two)2.50""",Ruffwear,0.2,3049,0,0,0
+222325000073547313,"Ruffwear Hi & light Trail Shoes_Blue Pool_(Set of Two)2.75""",Ruffwear,0.2,3099,0,0,0
+222325000073541277,"Ruffwear Hi & light Trail Shoes_Blue pool_(Set of Two)3.00""",Ruffwear,0.2,3149,0,0,0
+222325000073541295,"Ruffwear Hi & light Trail Shoes_Blue Pool_(Set of Two)3.25""",Ruffwear,0.2,3199,0,0,0
+222325000073526513,"Ruffwear Hi & light Trail Shoes_River Rock Green_(Set of Two)1.50""",Ruffwear,0.2,2849,0,0,0
+222325000073526531,"Ruffwear Hi & light Trail Shoes_River Rock Green_(Set of Two)1.75""",Ruffwear,0.2,2899,0,0,0
+222325000073547331,"Ruffwear Hi & light Trail Shoes_River Rock Green_(Set of Two)2.00""",Ruffwear,0.2,2949,0,0,0
+222325000073526549,"Ruffwear Hi & light Trail Shoes_River Rock Green_(Set of two)2.25""",Ruffwear,0.2,2999,0,0,0
+222325000073547349,"Ruffwear Hi & light Trail Shoes_River Rock Green_(Set of two)2.50""",Ruffwear,0.2,3049,0,0,0
+222325000073541313,"Ruffwear Hi & light Trail Shoes_River Rock Green_(Set of Two)2.75""",Ruffwear,0.2,3099,0,0,0
+222325000073541331,"Ruffwear Hi & light Trail Shoes_River Rock Green_(Set of Two)3.00""",Ruffwear,0.2,3149,0,0,0
+222325000073541349,Ruffwear Lumenglow High-Vis Jacket_Blaze Orange_Medium,Ruffwear,0.2,5499,0,0,0
+222325000073526657,Ruffwear Front Range Day Pack_Aurora Teal_Medium,Ruffwear,0.2,7499,0,0,0
+222325000073541439,Ruffwear Front Range Day Pack_Aurora Teal_Large/X-Large,Ruffwear,0.2,7599,0,0,0
+222325000073547403,Ruffwear Front Range Day Pack_Red Clay_Small,Ruffwear,0.2,7399,0,0,0
+222325000073547421,Ruffwear Stash Bag Mini_Basalt Gray,Ruffwear,0.2,2799,0,0,0
+222325000073541493,Ruffwear Stash Bag Mini_Aurora Teal,Ruffwear,0.2,2799,0,0,0
+222325000073541511,Ruffwear Roamer Leash_Orion Blue_Small,Ruffwear,0.2,3399,0,0,0
+222325000073547439,Ruffwear Roamer Leash_River Rock Green_Small,Ruffwear,0.2,3399,0,0,0
+222325000073541547,Ruffwear Roamer Leash_Yellow Snow_Small,Ruffwear,0.2,3399,0,0,0
+222325000073541701,"Ruffwear Hi & light Trail Shoes_River Rock Green_(Set of Two)3.25""",Ruffwear,0.2,3199,0,0,0
+222325000073867297,West Paw Rowdies Custers_Standard_Hot Pink,Westpaw,0.2,2199,0,0,0
+222325000073867315,West Paw Rowdies Custers_Standard_Lemon,Westpaw,0.2,2199,0,0,0
+222325000073864411,West Paw Rowdies Custers_Standard_Lime,Westpaw,0.2,2199,0,0,0
+222325000073864429,West Paw Rowdies Taylor_Standard_Hot Pink,Westpaw,0.2,2799,0,0,0
+222325000073816860,West Paw Rowdies Taylor_Standard_Lemon,Westpaw,0.2,2799,0,0,0
+222325000073864447,West Paw Rowdies Taylor_Standard_Lime,Westpaw,0.2,2799,0,0,0
+222325000073867333,West Paw Rowdies Wilson_Standard_Hot Pink,Westpaw,0.2,2799,0,0,0
+222325000073816878,West Paw Rowdies Wilson_Standard_Lemon,Westpaw,0.2,2799,0,0,0
+222325000073867351,West Paw Rowdies Wilson_Standard_Lime,Westpaw,0.2,2799,0,0,0
+222325000073816896,West Paw Rowdies Peet_Standard_Hot Pink,Westpaw,0.2,2999,0,0,0
+222325000073867369,West Paw Rowdies Peet_Standard_Lemon,Westpaw,0.2,2999,0,0,0
+222325000073867387,West Paw Rowdies Peet_Standard_Lime,Westpaw,0.2,2999,0,0,0
+222325000077041721,SE Orijen Kitten_Small_1.8 Kg,Orijen,1.8,3999,0,0,0
+222325000077113034,"Groom Professional Luminosa Left Blender Scissor_6.5"" 46T",Groom Pro,0.2,14999,0,0,0
+222325000077113052,"Groom Professional Luminosa Left Chunker Scissor_7"" Inch 20T",Groom Pro,0.2,16999,0,0,0
+222325000077111023,"Groom Professional Luminosa Left Chunker Scissor_8"" Inch 26T",Groom Pro,0.2,19499,0,0,0
+222325000077113070,"Groom Professional Luminosa Curved Scissor_Curved -8"" Inch",Groom Pro,0.2,14499,0,0,0
+222325000077111095,"Groom Professional Luminosa Straight Scissor_Straight - 7"" Inch",Groom Pro,0.2,12499,0,0,0
+222325000077124061,"Groom Professional Luminosa Straight Scissor_Straight - 8"" Inch",Groom Pro,0.2,12999,0,0,0
+222325000077124115,"Groom Professional Straight Ball-Tip Scissor_Std_5.5"" Inch",Groom Pro,0.2,11499,0,0,0
+222325000077124133,"Groom Professional Luminosa Left Straight Scissor_8"" Straight",Groom Pro,0.2,15999,0,0,0
+222325000077124151,"Groom Professional Astrid Scissor_Std_4.5"" Ball Tip",Groom Pro,0.2,8499,0,0,0
+222325000077124169,"Groom Professional Astrid Straight Scissor_Std_5"" Straight",Groom Pro,0.2,8999,0,0,0
+222325000077111113,"Groom Professional Astrid Straight Scissor_std_6"" Straight",Groom Pro,0.2,9499,0,0,0
+222325000077113124,"Groom Professional Astrid Straight Scissor_Std_8"" Straight",Groom Pro,0.2,10999,0,0,0
+222325000077124187,"Groom Professional Astrid Curved Scissor_Std_7.5"" Curved",Groom Pro,0.2,10999,0,0,0
+222325000077111131,"Groom Professional Astrid Left Curved Scissor_std_7"" Curved",Groom Pro,0.2,11999,0,0,0
+222325000077124207,Groom Professional Small Pet & Puppy Nail Scissor_Standard,Groom Pro,0.2,1199,0,0,0
+222325000077124243,"Groom Professional Medio Scissor_Std_8"" Straight",Groom Pro,0.2,2799,0,0,0
+222325000077111149,"Groom Professional Medio Scissor_Std_7"" Straight",Groom Pro,0.2,2599,0,0,0
+222325000077111167,"Groom Professional Medio Scissor_Std_6"" Straight",Groom Pro,0.2,2399,0,0,0
+222325000077111239,Groom Professional Tender Puppy Kitty Shampoo_Std_450 ml,Groom Pro,0.54,1509,0,0,0
+222325000077111275,Groom Professional Coconut Moisturising Shampoo_Std_450 ml,Groom Pro,0.2,1329,0,0,0
+222325000077111331,Groom Professional Coat Revitalise Conditioner_Std_450 ml,Groom Pro,0.54,1699,0,0,0
+222325000077113250,Groom Professional Wondercoat Spray_Std_200 ml,Groom Pro,0.24,1599,0,0,0
+222325000077290073,Westpaw Rowdies Ruby_Standard_Lemon,Westpaw,0.2,3599,0,0,0
+222325000077290091,West Paw Rowdies Lewis_Standard_Hot Pink,Westpaw,0.2,3499,0,0,0
+222325000077291049,West Paw Rowdies Lewis_Standard_Lime,Westpaw,0.2,3499,0,0,0
+222325000077421105,"CC - 31 MM T - Rake_Standard_6"" Inch",CC,0.2,9999,0,0,0
+222325000077435456,CC - White Ice Chalk_0.08 oz/2.26g,CC,0.2,1999,0,0,0
+222325000077457255,CC Smartwash50 Tropical Breeze Shampoo_16oz /473 ml,CC,0.57,3199,0,0,0
+222325000077457273,CC - Smartwash50 Hypo-Allergenic Blend_16 Oz/473 ml,CC,0.57,3199,0,0,0
+222325000077435542,CC - Diamond Series Miracle Cream_4 Oz/118 ml,CC,0.14,3299,0,0,0
+222325000077421599,Groom Professional 2 In 1 Protein Shampoo_100 ML,Groom Pro,0.12,439,0,0,0
+222325000077435578,Groom Professional Bright White Shampoo_100 ML,Groom Pro,0.12,439,0,0,0
+222325000077421617,Groom Professional Argan Oil Conditioner_100 ML,Groom Pro,0.12,499,0,0,0
+222325000077435596,Groom Professional Tea Tree Oil Shampoo_100 ML,Groom Pro,0.12,439,0,0,0
+222325000077457309,Groom Professional Raspberry Gloss Shampoo_100 ML,Groom Pro,0.12,439,0,0,0
+222325000077421635,Groom Professional Coat Repair Conditioner_100 ML,Groom Pro,0.12,499,0,0,0
+222325000079350481,Acana Classic Prairie Poultry_Large_9.7 Kg,Acana,9.7,9999,0,0,0
+222325000079971407,Eye Envy ProPowder Applicator Brush_Std_Small,Eye Envy,0.2,1999,0,0,0
+222325000080040001,Eye Envy ProPowder Applicator Brush_Std_Large,Eye Envy,0.2,2499,0,0,0
+222325000079971429,Eye Envy Tear Stain Remover Wipes - Bulldog_Std_(60 Count),Eye Envy,0.2,3499,0,0,0
+222325000080040041,Eye Envy Tear Stain Remover Wipes - Cats_Std_(60 Count),Eye Envy,0.2,3499,0,0,0
+222325000079971449,Eye Envy Tear Stain Remover Wipes - Dogs_Std_(60 Count),Eye Envy,0.2,3499,0,0,0
+222325000079989801,"Eye Envy Tear Stain Remover Starter Kit - Cat	_Standard",Eye Envy,0.2,4499,0,0,0
+222325000082162371,Wahl Detangling Comb_Standard,Wahl,0.2,449,0,0,0
+222325000082162393,Wahl Doggie Deodrant Puppy_236 ML,Wahl,0.36,649,0,0,0
+222325000082152389,Wahl Nail Clipper_Standard_Large,Wahl,0.2,599,0,0,0
+222325000082152409,Wahl Cat Slicker Brush_Standard,Wahl,0.2,399,0,0,0
+222325000082152450,Wahl Double Sided Brush_Standard_Large,Wahl,0.2,499,0,0,0
+222325000082152530,Wahl Soft Grip Dematter_Standard,Wahl,0.2,1150,0,0,0
+222325000082153843,Wahl Oatmeal Shampoo_Standard_700 ML,Wahl,0.2,949,0,0,0
+222325000082152570,Wahl Flea & Tick Shampoo_Standard_300 ML,Wahl,0.36,499,0,0,0
+222325000082162537,Wahl Flea & Tick Shampoo_Standard_700 ML,Wahl,0.2,949,0,0,0
+222325000082153863,Wahl Puppy Shampoo_Standard_300 ML,Wahl,0.2,499,0,0,0
+222325000082153883,Wahl Puppy Shampoo_Standard_700 ML,Wahl,0.84,949,0,0,0
+222325000082162557,Wahl Shed Control Shampoo_Standard_300 ML,Wahl,0.2,499,0,0,0
+222325000082153903,Wahl Shed Control Shampoo_Standard_700 ML,Wahl,0.2,949,0,0,0
+222325000082152590,Wahl Odor Control Shampoo_Standard_300 ML,Wahl,0.2,499,0,0,0
+222325000082162577,Wahl Odor Control Shampoo_Standard_700 ML,Wahl,0.2,949,0,0,0
+222325000082153963,Wahl Super Dry Hair Dryer -2400 Watts,Wahl,0.2,5499,0,0,0
+222325000082152630,Wahl 40 Ultimate Blade_STD,Wahl,0.2,2000,0,0,0
+222325000082286003,Wahl 4F Ultimate Blade_STD,Wahl,0.2,3000,0,0,0
+222325000082152650,Wahl 30 Ultimate Blade_STD,Wahl,0.2,2000,0,0,0
+222325000082152726,Wahl Test SKU,testbrand,0.2,469,0,0,0
+222325000082314211,Wahl Clipper Oil_60 ML,Wahl,0.2,239,0,0,0
+222325000082313189,Wahl Whitening Shampoo Concentrate_300 ML,Wahl,0.2,499,0,0,0
+222325000082312261,Wahl Whitening Shampoo Concentrate_700 ML,Wahl,0.84,949,0,0,0
+222325000082312283,Wahl Four in One Shampoo_700 ML,Wahl,0.84,949,0,0,0
+222325000082314233,Wahl Doggie Deodrant Eucalyptus & Spearmint_236 ML,Wahl,0.2,649,0,0,0
+222325000082569487,Wahl CDM Blade Assembly_STD,Wahl,0.2,1449,0,0,0
+222325000082734117,Acana Classic Prairie Poultry_Large_14.5 KG,Acana,14.5,13499,0,0,0
+222325000082734139,Acana Classic Wild Coast_Large_9.7 Kg,Acana,9.7,10499,0,0,0
+222325000083465861,Wahl Pet Hair Pic-Up Roller_STD,Wahl,0.2,399,0,0,0
+222325000083624577,LBP Gourmet Tender Chicken Mousse - 85 Grams,LBP,1.02,2160,0,0,0
+222325000083624599,LBP Gourmet Atlantic Ocean Fish Mousse - 85 Grams,LBP,1.02,2160,0,0,0
+222325000083622565,LBP Gourmet Atlantic Tuna Mousse - 85 Grams,LBP,1.02,2160,0,0,0
+222325000083624621,LBP Gourmet Atlantic Salmon Mousse - 85 Grams,LBP,1.02,2160,0,0,0
+222325000083624643,LBP Gourmet Tender Turkey Mousse - 85 Grams,LBP,1.02,2160,0,0,0
+222325000083622587,LBP Gourmet Tender Duck Mousse - 85 Grams,LBP,1.02,2160,0,0,0
+222325000083624665,LBP Steamed Atlantic Salmon & Vegetables - 150 Grams,LBP,1.2,1840,0,0,0
+222325000083618699,LBP Traditional Turkey & Vegetable Dinner - 150 Grams,LBP,1.2,1840,0,0,0
+222325000083618721,LBP Tender Duck & Vegetable Dinner -150 Grams,LBP,1.2,1840,0,0,0
+222325000083734979,Acana Classic Wild Coast_X Large_14.5 Kg,Acana,14.5,14899,0,0,0
+222325000084009761,Damage Acana Classic Wild Coast_Large_9.7 KG,Acana,9.7,10499,0,0,0
+222325000084012981,LBP Gourmet Tender Chicken Mousse - 85 Grams_Single Piece,LBP,0.085,180,0,0,0
+222325000084009825,LBP Gourmet Atlantic Ocean Fish Mousse - 85 Grams_Single Piece,LBP,0.085,180,0,0,0
+222325000084009847,LBP Gourmet Atlantic Tuna Mousse - 85 Grams_Single Piece,LBP,0.085,180,0,0,0
+222325000084100067,LBP Gourmet Atlantic Salmon Mousse - 85 Grams_Single Piece,LBP,0.085,180,0,0,0
+222325000084100089,LBP Gourmet Tender Turkey Mousse - 85 Grams_Single Piece,LBP,0.085,180,0,0,0
+222325000084105003,LBP Gourmet Tender Duck Mousse - 85 Grams_Single Piece,LBP,0.085,180,0,0,0
+222325000084100111,LBP Steamed Atlantic Salmon & Vegetables - 150 Grams_Single Piece,LBP,0.15,230,0,0,0
+222325000084105025,LBP Traditional Turkey & Vegetable Dinner - 150 Grams_Single Piece,LBP,0.15,230,0,0,0
+222325000084009869,LBP Tender Duck & Vegetable Dinner -150 Grams_Single Piece,LBP,0.15,230,0,0,0
+222325000084456013,Ruffwear Front Range Short Leash_Spring Fade_15 In (38 CM),Ruffwear,0.2,1999,0,0,0
+222325000084974131,Damage Acana Classic Prairie Poultry_Large_9.7 Kg,Acana,9.7,9999,0,0,0
+222325000084981171,Damage Acana Classic Prairie Poultry_Large_14.5 KG,Acana,14.5,13499,0,0,0
+222325000086951110,Damage Acana Classic Wild Coast_X Large_14.5 Kg,Acana,14.5,14899,0,0,0
+222325000089136001,CC - Pro-Line Self Rinse Plus_128 Oz/3.8L,CC,4.56,7999,0,0,0
+222325000089821603,NS Wahl 10 Ultimate Blade_STD,Wahl,0.2,2000,0,0,0
+222325000090395283,Ruffwear Front Range Harness_Moonlight Mountains_X Small,Ruffwear,0.2,4499,0,0,0
+222325000092003160,CC - SmartWash50 Papaya Starfruit_16 Oz/473 ml,CC,0.57,3199,0,0,0
+222325000092005112,CC - Smartwash50 Cherry & Oats Shampoo_16 Oz/473 ml,CC,0.57,3199,0,0,0
+222325000091994153,CC - Smartwash50 Jungle Apple Shampoo_16 Oz/473 ml,CC,0.57,3199,0,0,0
+222325000096220269,Damage Happy To Sea 0.25kg,Fabled,0.25,399,0,0,0
+222325000096199453,Damage Happy To Sea 2kg,Fabled,2,2299,0,0,0
+222325000096206625,Damage Happy To Sea 6kg,Fabled,6,5999,0,0,0
+222325000096199477,Damage Happy To Sea 11.4kg,Fabled,11.4,10299,0,0,0
+222325000096206649,Damage Happy To Sea 20kg,Fabled,20,14999,0,0,0
+222325000096206673,Damage Eager To Meat 0.25kg,Fabled,0.25,399,0,0,0
+222325000096199501,Damage Eager To Meat 2kg,Fabled,2,1999,0,0,0
+222325000096220293,Damage Eager To Meat 6kg,Fabled,6,5499,0,0,0
+222325000096206697,Damage Eager To Meat 11.4kg,Fabled,11.4,9799,0,0,0
+222325000096199525,Damage Eager To Meat 20kg,Fabled,20,12999,0,0,0
+222325000096220317,Damage Gentle Giants 0.25kg,Fabled,0.25,399,0,0,0
+222325000096206721,Damage Gentle Giants 2kg,Fabled,2,1999,0,0,0
+222325000096199549,Damage Gentle Giants 6kg,Fabled,6,5499,0,0,0
+222325000096220341,Damage Gentle Giants 11.4kg,Fabled,11.4,9799,0,0,0
+222325000096206745,Damage Gentle Giants 20kg,Fabled,20,12999,0,0,0
+222325000096199573,Damage Grow Little One 0.25kg,Fabled,0.25,399,0,0,0
+222325000096220365,Damage Grow Little One 2kg,Fabled,2,199,0,0,0
+222325000096206769,Damage Grow Little One 6kg,Fabled,6,5499,0,0,0
+222325000096199597,Damage Grow Little One 20kg,Fabled,20,12999,0,0,0
+222325000096220389,Damage Well Begun 0.25kg,Fabled,0.25,399,0,0,0
+222325000096206793,Damage Well Begun 2kg,Fabled,2,1999,0,0,0
+222325000096206817,Damage Well Begun 20kg,Fabled,20,12999,0,0,0
+222325000099524117,Ruffwear Climate Changer Dog Fleece_Galaxy_Medium,Ruffwear,0.2,5999,0,0,0
+222325000099523129,Ruffwear Climate Changer Dog Fleece_Galaxy_Large,Ruffwear,0.2,6099,0,0,0
+222325000099521303,Ruffwear Climate Changer Dog Fleece_Strata_Medium,Ruffwear,0.2,5999,0,0,0
+222325000099524141,Ruffwear Climate Changer Dog Fleece_Strata_Large,Ruffwear,0.2,6099,0,0,0
+222325000099521327,"Ruffwear Chain Reaction Martingale Collar_Basalt Gray_Small (11""-14"")",Ruffwear,0.2,2499,0,0,0
+222325000099523171,"Ruffwear Chain Reaction Martingale Collar_River Rock Green_Small (11""-14"")",Ruffwear,0.2,2499,0,0,0
+222325000099524189,"Ruffwear Chain Reaction Martingale Collar_Blue Pool_Small (11""-14"")",Ruffwear,0.2,2499,0,0,0
+222325000099523219,"Ruffwear Chain Reaction Martingale Collar_Blue Pool_Large (20""-26"")",Ruffwear,0.2,2699,0,0,0
+222325000100854553,Eye Envy Gentle Action Dry Applicator Pads for Dogs - Jar,Eye Envy,0.2,3499,0,0,0
+222325000100855139,Eye Envy Tear Stain facial Cleanser For Dogs & Cats_8.4 Oz/248 ml,Eye Envy,0.2,3499,0,0,0
+222325000100855165,Groom Professional Scissor Case_Std,Groom Pro,0.2,1500,0,0,0
+222325000100856145,CC - Top Cat Wonderful White Shampoo_32 Oz/946 ml,CC,1.14,5329,0,0,0
+222325000100854579,"Eye Envy Tear Stain Remover Solution - Dogs	_2 oz/59 ml",Eye Envy,0.2,2999,0,0,0
+222325000101908255,NS Wahl KM5 Professional Corded Clipper KFT_STD,Wahl,0.2,14999,0,0,0
+222325000102468189,NS Wahl 7F Ultimate Blade_STD,Wahl,0.2,3000,0,0,0
+222325000102468215,NS Wahl 4F Ultimate Blade_STD,Wahl,0.2,3000,0,0,0
+222325000102461385,NS Wahl 30 Ultimate Blade_STD,Wahl,0.2,2000,0,0,0
+222325000102461419,Wahl Prime Blade #40_0.25 MM,Wahl,0.2,4999,0,0,0
+222325000102456343,Wahl Prime Blade #30_0.5 MM,Wahl,0.2,4999,0,0,0
+222325000102468305,Wahl Blade Ice_14oz (397 Grams),Wahl,0.429,1499,0,0,0
+222325000102652105,Damage CC - Spectrum One Substance Builder_16 oz./473 ml,CC,0.57,3999,0,0,0
+222325000102650101,Damage CC Smart Style The Cure_8 oz./236 ml,CC,0.28,2299,0,0,0
+222325000104053255,Wahl Super Taper Pro Blade,Wahl,0.2,2499,0,0,0
+222325000104175605,SE LBP- Gourmet Atlantic Salmon Mousse - 85 Grams_Single Piece,LBP,0.085,180,0,0,0
+222325000104259305,SE LBP - Gourmet Atlantic Tuna Mousse - 85 Grams,LBP,1.02,2160,0,0,0
+222325000104261169,SE LBP - Gourmet Atlantic Tuna Mousse - 85 Grams_Single Piece,LBP,0.085,180,0,0,0
+222325000104257357,SE LBP - Gourmet Tender Turkey Mousse - 85 Grams_Single Piece,LBP,0.085,180,0,0,0
+222325000104261235,SE LBP - Gourmet Tender Chicken Mousse - 85 Grams_Single Piece,LBP,0.085,180,0,0,0
+222325000104259331,SE Little Big Paw - Gourmet Tender Duck Mousse - 85 Grams_Single Piece,LBP,0.085,180,0,0,0
+222325000104257383,SE LBP - Gourmet Atlantic Ocean Fish Mousse - 85 Grams,LBP,1.02,2160,0,0,0
+222325000104261261,SE LBP - Gourmet Atlantic Ocean Fish Mousse - 85 Grams_Single Piece,LBP,0.085,180,0,0,0
+222325000104640189,WAHL Prime Blade_9_2.0 MM,Wahl,0.2,4999,0,0,0
+222325000104586877,WAHL Prime Blade_10W_1.5 MM,Wahl,0.2,6999,0,0,0
+222325000104585867,WAHL Prime Blade_9W_2.0 MM,Wahl,0.2,6999,0,0,0
+222325000105369157,GroomEssence All-in-one_Vanilla_300 ml,GroomEssence,0.36,799,0,0,0
+222325000105353647,GroomEssence All-in-one_Vanilla_500 ml,GroomEssence,0.6,1299,0,0,0
+222325000105346641,GroomEssence All-in-one_Vanilla_3.8 Ltr,GroomEssence,4.56,7499,0,0,0
+222325000105353675,GroomEssence All-in-one_Vanilla_5 Ltr,GroomEssence,6,9499,0,0,0
+222325000105553515,SE LBP Gourmet Tender Turkey Mousse - 85 Grams,LBP,1.02,2160,0,0,0
+222325000105552549,SE Acana Classic Wild Coast_X Large_14.5 Kg,Acana,14.5,14899,0,0,0
+222325000105958483,Wahl Barber Briefcase Black and Gold,Wahl,0.2,9999,0,0,0
+222325000105984331,Orijen Puppy Food_85 Grams,Orijen,0.085,199,0,0,0
+222325000105982919,Orijen Original Cat Dry Food_85 Grams,Orijen,0.085,199,0,0,0
+222325000105978477,Orijen Original Dog Food_85 Grams,Orijen,0.085,199,0,0,0
+222325000105984359,Orijen Six Fish Dog Food_85 Grams,Orijen,0.085,199,0,0,0
+222325000105982947,Acana Adult Dog Food_85 Grams,Acana,0.085,179,0,0,0
+222325000105984387,Acana Puppy_85 Grams,Acana,0.085,179,0,0,0
+222325000107197003,GroomEssence Printed Mixed Berries,GroomEssence,0.2,2.09,0,0,0
+222325000107197028,GroomEssence Printed Vanilla,GroomEssence,0.2,2.09,0,0,0
+222325000107197259,Packing Services,,0.02,1.25,0,0,0
+222325000107197274,GroomEssence All-in-one_Vanilla_20 ml,GroomEssence,0.024,99,0,0,0
+222325000107197373,GroomEssence All-in-one_Vanilla,GroomEssence,0.2,0.36,0,0,0
+222325000107690017,Groomessence All in 1Shampoo + Conditioner Mixed Berry,GroomEssence,0.2,0.27,0,0,0
+222325000107690280,GroomEssence All-in-one_Mixed Berries_20 ml,GroomEssence,0.024,99,0,0,0
+222325000113119707,GroomEssence Pet Cologne Vanilla Bloom 200 ml,GroomEssence,0.24,599,0,0,0
+222325000113370383,Inaba Chicken Broth with Chicken Recipe 50g,Inaba,0.05,99,0,0,0
+222325000113371757,Inaba Chicken Broth with Chicken & Tuna Recipe 50g,Inaba,0.05,99,0,0,0
+222325000113375699,Inaba Chicken Broth with Chicken & Salmon Recipe 50g,Inaba,0.05,99,0,0,0
+222325000113370411,Inaba Chicken Stew Chicken Recipe 40g,Inaba,0.04,99,0,0,0
+222325000113371785,Inaba Chicken Stew Chicken & Tuna Recipe 40g,Inaba,0.04,99,0,0,0
+222325000113375727,Inaba Chicken Stew Chicken with Salmon Recipe 40g,Inaba,0.04,99,0,0,0
+222325000113370439,Inaba Churu Tuna Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113371813,Inaba Churu Tuna With Chicken Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113375755,Inaba Churu Chicken Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113370467,Inaba Churu Tuna With Scallop Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113371841,Inaba Churu Chicken With Scallop Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113375783,Inaba Churu Tuna with Salmon Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113370495,Inaba Churu Chicken with Cheese Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113371869,Inaba Churu Chicken with Shrimp Flavor Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113371897,Inaba Churu Chicken with Crab Flavor Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113375811,Inaba Churu Bisque Tuna Recipe 40g,Inaba,0.04,99,0,0,0
+222325000113370523,Inaba Churu Bisque Tuna with Salmon Recipe 40g,Inaba,0.04,99,0,0,0
+222325000113371925,Inaba Churu Bisque Chicken Recipe 40g,Inaba,0.04,99,0,0,0
+222325000113375839,Inaba Juicy Bites Tuna & Chicken Flavor 11.3g x 3,Inaba,0.034,219,0,0,0
+222325000113370551,Inaba Juicy Bites Fish & Clam Flavor 11.3g x 3,Inaba,0.034,219,0,0,0
+222325000113371953,Inaba Juicy Bites Scallop & Crab Flavor 11.3g x 3,Inaba,0.034,219,0,0,0
+222325000113375867,Inaba Juicy Bites Shrimp & Seafood Mix Flavor 11.3g x 3,Inaba,0.034,219,0,0,0
+222325000113370579,Inaba Juicy Bites Homestyle Broth & Calamari Flavor 11.3g x 3,Inaba,0.034,219,0,0,0
+222325000113371981,Inaba Dog Churu Chicken Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113375895,Inaba Dog Churu Chicken with Tuna Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113370607,Inaba Dog Churu Chicken with Salmon Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113416009,Inaba Dog Churu Chicken with Cheese Recipe 56g,Inaba,0.056,199,0,0,0
+222325000113375923,Inaba Dog Churu Chicken with Vegetables Recipe 56g,Inaba,0.056,199,0,0,0
+222325000113370635,Inaba Dashi Delights Chicken with Tuna Recipe 70g,Inaba,0.07,149,0,0,0
+222325000113416037,Inaba Dashi Delights Chicken with Tuna & Salmon Recipe 70g,Inaba,0.07,149,0,0,0
+222325000113375951,Inaba Dashi Delights Chicken Recipe 70g,Inaba,0.07,149,0,0,0
+222325000113370663,Inaba Churu For Kitten Tuna Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113416065,Inaba Churu for Kitten Chicken Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113375979,Inaba Churu For Hairball Tuna 14g x 4,Inaba,0.056,199,0,0,0
+222325000113370691,Inaba Churu For Hairball Chicken 14g x 4,Inaba,0.056,199,0,0,0
+222325000113416093,Inaba Churu Skin & Coat Tuna Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113417007,Inaba Churu Skin & Coat Chicken Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113370719,Inaba Churu Skin & Coat Tuna with Scallop Recipe 14g x 4,Inaba,0.056,199,0,0,0
+222325000113416121,Inaba Churu Skin & Coat Chicken with Scallop Recipe  14g x 4,Inaba,0.056,199,0,0,0
+222325000113538163,Ruffwear Cloud Chaser Jacket Aurora Teal Medium,Ruffwear,0.2,7299,0,0,0
+222325000113538219,Ruffwear Swamp Cooler Harness Sage Green Large/X-Large,Ruffwear,0.2,6899,0,0,0
+222325000113541293,Ruffwear Gnawt-a-Cone Toy Lichen Green Standard,Ruffwear,0.2,1599,0,0,0
+222325000113556005,Ruffwear Gnawt-a-Cone Toy Blue Pool Standard,Ruffwear,0.2,1599,0,0,0
+222325000113538275,Ruffwear Gnawt-a-Cone Toy Red Sumac Standard,Ruffwear,0.2,1599,0,0,0
+222325000113556033,Ruffwear Gnawt-a-Stick Toy Lichen Green Standard,Ruffwear,0.2,1999,0,0,0
+222325000113538303,Ruffwear Gnawt-a-Stick Toy Blue Pool Standard,Ruffwear,0.2,1999,0,0,0
+222325000113556061,Ruffwear Gnawt-a-Stick Toy Red Sumac Standard,Ruffwear,0.2,1999,0,0,0
+222325000113556089,Ruffwear Gnawt-a-Rock Toy Lichen Green Standard,Ruffwear,0.2,2299,0,0,0
+222325000113538331,Ruffwear Gnawt-a-Rock Toy Blue Pool Standard,Ruffwear,0.2,2299,0,0,0
+222325000113541321,Ruffwear Gnawt-a-Rock Toy Red Sumac Standard,Ruffwear,0.2,2299,0,0,0
+222325000113556117,"Ruffwear Grip Trex  (Set of Two)_Lichen Green_1.75""",Ruffwear,0.2,3199,0,0,0
+222325000113538359,Ruffwear Summit Trex Shoes (Set of Two)_Sunrise Yellow 1.50,Ruffwear,0.2,2500,0,0,0
+222325000113541349,Ruffwear Summit Trex Shoes (Set of Two)_Sunrise Yellow 1.75,Ruffwear,0.2,2550,0,0,0
+222325000113556145,Ruffwear Summit Trex Shoes (Set of Two)_Sunrise Yellow 2.00,Ruffwear,0.2,2600,0,0,0
+222325000113541377,Ruffwear Summit Trex Shoes (Set of Two)_Sunrise Yellow 2.50,Ruffwear,0.2,2650,0,0,0
+222325000113556173,Ruffwear Summit Trex Shoes (Set of Two)_Sunrise Yellow 2.75,Ruffwear,0.2,2700,0,0,0
+222325000113541405,Ruffwear Summit Trex Shoes (Set of Two)_Sunrise Yellow 3.00,Ruffwear,0.2,2750,0,0,0
+222325000113556201,Ruffwear Summit Trex Shoes (Set of Two)_Sunrise Yellow 3.25,Ruffwear,0.2,2800,0,0,0
+222325000113538387,Ruffwear Summit Trex Shoes (Set of Two)_Obsidian Black_2.25,Ruffwear,0.2,2650,0,0,0
+222325000113541433,Ruffwear Summit Trex Shoes (Set of Two)_Sunrise Yellow_2.25,Ruffwear,0.2,2650,0,0,0
+222325000113538415,Ruffwear Summit Trex Shoes (Set of Two)_Obsidian Black 1.50,Ruffwear,0.2,2500,0,0,0
+222325000113541461,Ruffwear Summit Trex Shoes (Set of Two)_Obsidian Black 1.75,Ruffwear,0.2,2550,0,0,0
+222325000113556229,Ruffwear Summit Trex Shoes (Set of Two)_Obsidian Black 2.00,Ruffwear,0.2,2600,0,0,0
+222325000113538443,Ruffwear Summit Trex Shoes (Set of Two)_Obsidian Black 2.50,Ruffwear,0.2,2650,0,0,0
+222325000113541489,Ruffwear Summit Trex Shoes (Set of Two)_Obsidian Black 2.75,Ruffwear,0.2,2700,0,0,0
+222325000113556257,Ruffwear Summit Trex Shoes (Set of Two)_Obsidian Black 3.00,Ruffwear,0.2,2750,0,0,0
+222325000113538471,Ruffwear Summit Trex Shoes (Set of Two)_Obsidian Black 3.25,Ruffwear,0.2,2800,0,0,0
+222325000113613365,Damage GroomEssence All-in-one_Vanilla_20 ml,GroomEssence,0.024,99,0,0,0
+222325000121330367,3.8 L Gallon Groom Essence,GroomEssence,4.18,1,0,0,0
+222325000121317587,GroomEssence All-in-one_Vanilla_5 Ltr.,GroomEssence,6,9499,0,0,0
+222325000121317766,GroomEssence All-in-one_Mixed Berry_3.8 Ltr.,GroomEssence,4.56,6999,0,0,0
+222325000122964178,Sample of Churu,Inaba,0.02,1,0,0,0
+222325000122964205,Sample of Dashi Delights,Inaba,0.02,1,0,0,0
+222325000122964232,Sample of Dog Churu,Inaba,0.02,1,0,0,0
+222325000122964259,Sample of Churu for Kitten,Inaba,0.02,1,0,0,0
+222325000122964286,Sample of Churu for Hairball and Skin and Coat,Inaba,0.02,1,0,0,0
+222325000124750202,GroomEssence Pet Cologne Tester Vanilla Bloom 5 ml,GroomEssence,0.006,99,0,0,0
+222325000124750229,GroomEssence Pet Cologne Tester Berry Blast 5 ml,GroomEssence,0.006,99,0,0,0
+222325000125339640,GroomEssence Pet Cologne_Vanilla Bloom_5 Ltr,GroomEssence,6,9499,0,0,0
+222325000125339667,GroomEssence Pet Cologne_Berry Blast_5 Ltr,GroomEssence,6,9499,0,0,0
+222325000125339694,GroomEssence Pet Cologne_Musk Aura_5 Ltr,GroomEssence,6,9499,0,0,0
+222325000125339737,GroomEssence Pet Cologne_Fresh Breeze_5 Ltr,GroomEssence,6,9499,0,0,0
+222325000138489640,CC OC Magic Foam_7.5 oz.,CC,0.27,3699,0,0,0
+222325000141547392,SE Acana Classic Wild Coast_Large_9.7 Kg,Acana,9.7,10499,0,0,0
+222325000143435418,NS WAHL Prime Blade #10_1.5 MM,Wahl,0.2,4999,0,0,0
+222325000145172959,SE Acana Puppy_Small_ 2 Kg,Acana,2,2999,0,0,0
+222325000153238733,NS CC - Kool Dry 240 V Aluminum Dryer_Purple,CC,0.2,51999,0,0,0
+222325000153238780,NS CC Kool Dry 240v Xtreme BLUE_240v,CC,0.2,59999,0,0,0
+222325000153238827,NS CC Kool Dry 240v Xtreme PURPLE_240v,CC,0.2,59999,0,0,0
+222325000153447577,Fabled Eager to Meat 11.4Kg package,Fabled,0.2,1,0,0,0
+222325000153447626,Fabled Eager to Meat 2Kg package,Fabled,0.2,1,0,0,0
+222325000153447679,Fabled Eager to Meat 6Kg package,Fabled,0.2,1,0,0,0
+222325000153447726,Fabled Gentle Giants 2 Kg Package,Fabled,0.2,1,0,0,0
+222325000153447773,Fabled Grow Little One 2 Kg package,Fabled,0.2,1,0,0,0
+222325000153447820,Fabled Grow Little One 6 Kg package,Fabled,0.2,1,0,0,0
+222325000153447867,Fabled Happy to Sea 11.4 Kg Package,Fabled,0.2,1,0,0,0
+222325000153447914,Fabled Happy to Sea 2 Kg Package,Fabled,0.2,1,0,0,0
+222325000153447961,Fabled Happy to Sea 6 Kg Package,Fabled,0.2,1,0,0,0
+222325000154783346,SE Acana Classic Prairie Poultry_Large_9.7 Kg,Acana,9.7,9999,0,0,0
+222325000154783393,Damage Orijen Small Breed_Medium_4.5 Kg,Orijen,4.5,6999,0,0,0
+222325000155502083,NS WAHL Prime Blade_7F_3.2 MM,Wahl,0.2,5999,0,0,0
+222325000159145669,NS Wahl Show Pro Clipper_Standard,Wahl,0.2,7999,0,0,0
+222325000159145716,NS Wahl KM Inspire,Wahl,0.2,17999,0,0,0
+222325000159717862,Acana Indoor Entre Cat_Trial Pack_340G,Acana,0.34,599,0,0,0
+222325000159717885,Acana Indoor Entre Cat_Small_1.8Kg,Acana,1.8,2699,0,0,0
+222325000159717908,Acana Indoor Entre Cat_Medium_ 4.5Kg,Acana,4.5,5799,0,0,0
+222325000159717931,Acana Bountiful Catch Cat_Small_1.8Kg,Acana,1.8,2799,0,0,0
+222325000159717954,Acana Bountiful Catch Cat_Medium_ 4.5Kg,Acana,4.5,5999,0,0,0
+222325000165142309,All in One Mixed Berries-3.8 LTR Sticker,GroomEssence,4.56,21,0,0,0
+222325000165142892,5ML MIST TESTER BOTTLE WITH 13MM FINE MIST PUMP,GroomEssence,0.006,7.298,0,0,0
+222325000165165153,200ML SLEEK CLEAR BOTTLE WITH PLUM MIST PUMP,GroomEssence,0.24,26.44,0,0,0
+222325000165165219,PET COLONE VANILLA BLOOM 200ML STICKER,GroomEssence,0.24,7.5,0,0,0
+222325000165165242,PET COLOGNE MUSK AURA 200 ML STICKER,GroomEssence,0.24,7.5,0,0,0
+222325000165165265,PET COLOGNE BERRY BLAST 200 ML STICKER,GroomEssence,0.24,7.5,0,0,0
+222325000165165288,PET COLOGNE FRESH BREEZE 200 ML STICKER,GroomEssence,0.24,7.5,0,0,0
+222325000165165311,SEVEN MASSAGE OIL 200ML STICKER,GroomEssence,0.24,7.5,0,0,0
+222325000165165338,PET COLOGNE TESTER VANILLA BLOOM 5ML STICKER,GroomEssence,0.006,5,0,0,0
+222325000165165361,PET COLOGNE TESTER BERRY BLAST 5ML STICKER,GroomEssence,0.006,5,0,0,0
+222325000165165399,PET COLOGNE TESTER MUSK AURA 5ML,GroomEssence,0.006,5,0,0,0
+222325000165165426,PET COLOGNE TESTER FRESH BREEZE 5ML STICKER,GroomEssence,0.006,5,0,0,0
+222325000165451514,GroomEssence Pet Cologne Berry Blast ml,GroomEssence,0.2,0.3425,0,0,0
+222325000165451537,GroomEssence Pet Cologne Musk Aura ml,GroomEssence,0.2,0.3425,0,0,0
+222325000165451560,GroomEssence Pet Cologne Fresh Breeze ml,GroomEssence,0.2,0.3425,0,0,0
+222325000165451583,GroomEssence Pet Massage Oil Seven ml,GroomEssence,0.2,0.565,0,0,0
+222325000165453315,GroomEssence Pet Cologne Berry Blast 200 ml.,GroomEssence,0.24,599,0,0,0
+222325000165453380,GroomEssence Pet Cologne Musk Aura 200 ml.,GroomEssence,0.24,599,0,0,0
+222325000165453429,GroomEssence Pet Cologne Fresh Breeze 200 ml.,GroomEssence,0.24,599,0,0,0
+222325000165453478,GroomEssence Pet Massage Oil Seven 200 ml.,GroomEssence,0.24,599,0,0,0
+222325000165666890,GroomEssence Pet Cologne Tester Vanilla Bloom ml (Packing 5ML),GroomEssence,0.006,1.7,0,0,0
+222325000165916113,GroomEssence Pet Cologne Tester Fresh Breeze 5 ml.,GroomEssence,0.006,99,0,0,0
+222325000165921338,GroomEssence Grooming Apron_Black_STD,GroomEssence,0.2,499,0,0,0
+222325000165876753,GroomEssence Pet Cologne Musk Aura ml (Packing 5ML),GroomEssence,0.006,1.7,0,0,0
+222325000165876776,GroomEssence Pet Cologne Fresh Breeze ml (Packing 5ML),GroomEssence,0.006,1.7,0,0,0
+222325000165876799,GroomEssence Pet Cologne Berry Blast ml (Packing 5ML),GroomEssence,0.006,1.7,0,0,0
+222325000165926788,GroomEssence Pet Cologne Tester Musk Aura 5 ml.,GroomEssence,0.006,99,0,0,0
+222325000165926817,GroomEssence Pet Cologne Tester Berry Blast 5 ml.,GroomEssence,0.006,99,0,0,0
+222325000165948054,GroomEssence Pet Cologne Tester Vanilla Bloom 5 ml.,GroomEssence,0.006,99,0,0,0
+222325000166322027,Sustainably Yours Mixed Grain - 11.8kg,SY,11.8,3799.05,0,0,0
+222325000167317313,GroomEssence Salon Series Simply Clean_ML,GroomEssence,0.2,0,0,0,0
+222325000167528594,GroomEssence Simply clean shampoo 3.8lt label,GroomEssence,0.2,21,0,0,0
+222325000167683151,GroomEssence Salon Series Simply Clean Shampoo_3.8 L,GroomEssence,4.56,6999,0,0,0
+222325000168977320,Sample of Broth with Chicken,Inaba,0.02,1,0,0,0
+222325000170520722,Orijen Kitten Food_85 Grams,Orijen,0,199,0,0,0
+222325000170940275,Fabled Happy To Sea_Adult Fish Recipe_(15 Kg),Fabled,0,12999,0,0,0
+222325000170940358,Fabled Gentle Giants_Puppy Large Breed Recipe_(15 Kg),Fabled,0,12499,0,0,0
+222325000170940384,Fabled Eager To Meat_Adult Poultry Recipe_(15 Kg),Fabled,0,12499,0,0,0
+222325000171271218,GroomEssence Salon Series Simply Clean Shampoo_20 ml,GroomEssence,0.02,99,0,0,0
+222325000171271420,GroomEssense Simply Clean Shampoo 20ml pouch,GroomEssence,0.02,2.87,0,0,0
+222325000172700390,GroomEssence Dilution Bottle-1Ltr,GroomEssence,1,64.9,0,0,0
+222325000172700446,GroomEssence UE Printed Dilution Bottle – 1L,GroomEssence,1,55,0,0,0
+222325000172730673,GroomEssence Dilution Bottle _1Ltr,GroomEssence,1,299,0,0,0
+222325000173195189,GroomEssence Gallon Dispenser Pump,GroomEssence,0.02,299,0,0,0
+222325000173775216,GroomEssence Silk & Shine Coat Serum Airless Bottle - 100ml White,GroomEssence,0.1,53,0,0,0
+222325000173775268,GroomEssence Silk & Shine Serum Label 100ML,GroomEssence,0.1,5.26,0,0,0
+222325000173775309,GroomEssence Silk & Shine Coat Serum ML,GroomEssence,0.02,1.75,0,0,0
+222325000173775371,GroomEssence Silk & Shine Coat Serum_100 ml,GroomEssence,1,1199,0,0,0
+222325000173898016,UC Silver Spoon Cat Treat Torori Maguro (14g x 4),Unicharm,0.048,160,0,0,0
+222325000173898043,UC Silver Spoon Cat Treat Torori Katsuo (14g x 4),Unicharm,0.048,160,0,0,0
+222325000173898070,UC Silver Spoon Cat Treat Torori Sasami (14g x 4),Unicharm,0.048,160,0,0,0
+222325000173898097,UC Silver Spoon Cat Treat Torori Salmon (14g x 4),Unicharm,0.048,160,0,0,0
+222325000173898124,UC Silver Spoon Cat Food Torokeru Maguro (T-MP) (60g),Unicharm,0.06,140,0,0,0
+222325000173898151,UC Silver Spoon Cat Food Torokeru Sasami (T-MC) (60g),Unicharm,0.06,140,0,0,0
+222325000173898178,UC Silver Spoon Cat Food Maguro (P-MP) (60g),Unicharm,0.06,105,0,0,0
+222325000173898207,UC Silver Spoon Cat Food Sasami Cat (P-MC) (60g),Unicharm,0.06,105,0,0,0
+222325000173898234,UC Silver Spoon Cat Food Katsuo (P-MK) (60g),Unicharm,0.06,105,0,0,0
+222325000173898261,UC Silver Spoon Cat Food Shirasu (P-MF) (60g),Unicharm,0.06,105,0,0,0
+222325000173898288,UC Ezi-Lock Odour Cat Litter Lavender 5kg,Unicharm,5,625,0,0,0
+222325000173898357,UC Ezi-Lock Odour Cat Litter Lavender 2kg,Unicharm,2,250,0,0,0
+222325000173898384,UC Ezi-Lock Odour Cat Litter Rose 5kg,Unicharm,5,625,0,0,0
+222325000173898411,UC Ezi-Lock Odour Cat Litter Rose 2kg,Unicharm,2,250,0,0,0
+222325000176990176,Damage Acana Bountiful Catch Cat_Small_1.8Kg,Acana,1.8,2799,0,0,0
+222325000176990203,Damage Acana Indoor Entre Cat_Trial Pack_340G,Acana,0.34,599,0,0,0
+222325000177528322,Sample_UC_Silver Spoon Cat Treat,Unicharm,0.2,1,0,0,0
+222325000177528349,Sample_UC_Silver Spoon Cat Food,Unicharm,0.2,1,0,0,0
+222325000177528381,Sample_UC_Ezi-Lock Odour Cat Litter 5kg,Unicharm,5,1,0,0,0
+222325000177528413,Sample_UC_Ezi-Lock Odour Cat Litter 2kg,Unicharm,2,1,0,0,0
+222325000178651864,Sample of Churu Bisque,Inaba,0.02,1,0,0,0
+222325000178651891,Sample of Juicy Bites,Inaba,0.02,1,0,0,0
+222325000178651918,Sample of Chicken Stew,Inaba,0.02,1,0,0,0
+222325000179287542,Fabled Happy To Sea_Adult Fish Recipe_(85 gms),Fabled,0.085,149,0,0,0
+222325000179287578,Fabled Happy To Sea_Adult Fish Recipe_(900 gms),Fabled,0.9,999,0,0,0
+222325000179287768,Fabled Eager To Me_Adult Poultry Recipe_(85 gms),Fabled,0.085,149,0,0,0
+222325000179287800,Fabled Eager To Me_Adult Poultry Recipe_(900 gms),Fabled,0.9,999,0,0,0
+222325000179287891,Fabled Gentle Giants_Puppy Large Breed Recipe_(85 gms),Fabled,0.085,149,0,0,0
+222325000179287918,Fabled Gentle Giants_Puppy Large Breed Recipe_(900 gms),Fabled,0.9,999,0,0,0
+222325000179298030,Fabled Grow Little One_Puppy Small breed recipe_(85 gms),Fabled,0.085,149,0,0,0
+222325000179298057,Fabled Grow Little One_Puppy Small breed recipe_(900 gms),Fabled,0.9,999,0,0,0
+222325000179298150,Fabled Well Begun_Stater Recipe_(85 gms),Fabled,0.085,149,0,0,0
+222325000179298219,Fabled Well Begun_Starter Recipe_(900 gms),Fabled,0.9,999,0,0,0
+222325000181650037,GE_STCK_AIO Mixed Berries_300ML,GroomEssence,0,12,0,0,0
+222325000181650064,GE_STCK_All Purpose Conditioner_300ML,GroomEssence,0,12,0,0,0
+222325000181650091,GE_STCK_Colloidal Silver Shampoo_300ML,GroomEssence,0,12,0,0,0
+222325000181650118,GE_STCK_Deshedding & Detangling Shampoo_300ML,GroomEssence,0,12,0,0,0
+222325000181650145,GE_STCK_Oatmeal Shampoo_300ML,GroomEssence,0,12,0,0,0
+222325000181650172,GE_STCK_Prebiotic Shampoo_300ML,GroomEssence,0,12,0,0,0
+222325000181650199,GE_STCK_All Purpose Conditioner_3.8L,GroomEssence,0,25,0,0,0
+222325000181650226,GE_STCK_Colloidal Silver Shampoo_3.8L,GroomEssence,0,25,0,0,0
+222325000181650273,GE_STCK_Deshedding & Detangling Shampoo_3.8L,GroomEssence,0,25,0,0,0
+222325000181650322,GE_STCK_Oatmeal Shampoo_3.8L,GroomEssence,0,25,0,0,0
+222325000181650349,GE_STCK_Prebiotic Shampoo_3.8L,GroomEssence,0,25,0,0,0
+222325000181650376,GE_STCK_Sampling,GroomEssence,0,2500,0,0,0
+222325000181712985,GE_Empty Plastic Bottle_300ML,GroomEssence,0,50,0,0,0
+222325000187068576,GroomEssence All Purpose Pet Wipes_Unscented_60 Pull,GroomEssence,0,299,0,0,0
+222325000187068603,GroomEssence All Purpose Pet Wipes_Unscented_10 Pulls,GroomEssence,0,99,0,0,0
+222325000187068635,GroomEssence All Purpose Pet Wipes_Vanilla_60 Pulls,GroomEssence,0,299,0,0,0
+222325000187068662,GroomEssence All Purpose Pet Wipes_Vanilla_10 Pulls,GroomEssence,0,99,0,0,0
+222325000187482269,Damage Acana Cat Pacifica_Medium_4.5 Kg,Acana,0,7399,0,0,0
+222325000187720511,GroomEssence All-in-one_Mixed Berries_300 ml,GroomEssence,0,649,0,0,0
+222325000187711778,GE_Oatmeal_Shampoo_Raw_Material (ML),GroomEssence,0,1,0,0,0
+222325000187720621,GroomEssence Oatmeal_Shampoo_300 ml,GroomEssence,0,599,0,0,0
+222325000187711837,GE_Desheding + Detangling_Shampoo_Raw_Material (ML),GroomEssence,0,1,0,0,0
+222325000187711864,GE_Prebiotic_Shampoo_Raw_Material (ML),GroomEssence,0,1,0,0,0
+222325000187711891,GE_Colloidal Silver_Shampoo_Raw_Material (ML),GroomEssence,0,1,0,0,0
+222325000187711918,GE_All Purpose_Conditioner_Raw_Material (ML),GroomEssence,0,1,0,0,0
+222325000187720652,GroomEssence Deshedding + Detangling Shampoo_300 ml,GroomEssence,0,599,0,0,0
+222325000187757079,Inaba_MKT_Counter Top Unit,Inaba,0,590,0,0,0
+222325000187757106,Inaba_MKT_Floor Standing Unit,Inaba,0,1300,0,0,0
+222325000187757133,Inaba_MKT_Table Top,Inaba,0,225,0,0,0
+222325000187720787,GroomEssence Prebiotic Shampoo_300 ml,GroomEssence,0,599,0,0,0
+222325000187720814,GroomEssence Colloidal Silver Shampoo_300 ml,GroomEssence,0,699,0,0,0
+222325000187771218,GroomEssence All-Purpose Conditioner_300 ml,GroomEssence,0,699,0,0,0
+222325000187779408,GroomEssence Oatmeal Shampoo_3.8 L,GroomEssence,0,6999,0,0,0
+222325000187779509,GroomEssence Deshedding + Detangling Shampoo_3.8 L,GroomEssence,0,6999,0,0,0
+222325000187779536,GroomEssence Prebiotic Shampoo_3.8 L,GroomEssence,0,6999,0,0,0
+222325000187779563,GroomEssence Colloidal Silver Shampoo_3.8 L,GroomEssence,0,7999,0,0,0
+222325000187779590,GroomEssence All-Purpose Conditioner_3.8 L,GroomEssence,0,7999,0,0,0
+222325000187809134,GroomEssence_Shampoo_Assortment_Pack of 4,GroomEssence,0,2546,0,0,0
+222325000189528687,GroomEssence All Purpose Pet Wipes_Vanilla_10 Pulls (3+1),GroomEssence,0,396,25,0,0
+222325000189528693,GroomEssence All Purpose Pet Wipes_Unscented_10 Pulls (3+1),GroomEssence,0,396,25,0,0
+222325000189528805,GroomEssence All Purpose Pet Wipes_Vanilla_60 Pulls (3+1),GroomEssence,0,1196,25,0,0
+222325000189528814,GroomEssence All Purpose Pet Wipes_Unscented_60 Pull (3+1),GroomEssence,0,1196,25,0,0
+222325000190216191,Inaba Churu Tuna Recipe 14g x 4 (Pack of 6),Inaba,0.336,1209,8.33,0,0
+222325000190216221,Inaba Churu Tuna With Chicken Recipe 14g x 4 (Pack of 6),Inaba,0.336,1209,8.33,0,0
+222325000190216251,Inaba Churu Chicken Recipe 14g x 4 (Pack of 6),Inaba,0.336,1209,8.33,0,0
+222325000190216281,Inaba Churu Tuna With Scallop Recipe 14g x 4 (Pack of 6),Inaba,0.336,1209,8.33,0,0
+222325000190216311,Inaba Churu Chicken With Scallop Recipe 14g x 4 (Pack of 6),Inaba,0.336,1209,8.33,0,0
+222325000190216341,Inaba Churu Tuna with Salmon Recipe 14g x 4 (Pack of 6),Inaba,0.336,1209,8.33,0,0
+222325000190216371,Inaba Churu Chicken with Cheese Recipe 14g x 4 (Pack of 6),Inaba,0.336,1209,8.33,0,0
+222325000190216401,Inaba Churu Chicken with Shrimp Flavor Recipe 14g x 4 (Pack of 6),Inaba,0.336,1209,8.33,0,0
+222325000190216431,Inaba Churu Chicken with Crab Flavor Recipe 14g x 4 (Pack of 6),Inaba,0.336,1209,8.33,0,0
+222325000190216461,Inaba Churu Skin & Coat Tuna Recipe 14g x 4 (Pack of 6),Inaba,0.336,1374,8.33,0,0
+222325000190216491,Inaba Churu Skin & Coat Chicken Recipe 14g x 4 (Pack of 6),Inaba,0.336,1374,8.33,0,0
+222325000190216521,Inaba Churu Skin & Coat Tuna with Scallop Recipe 14g x 4 (Pack of 6),Inaba,0.336,1374,8.33,0,0
+222325000190216551,Inaba Churu Skin & Coat Chicken with Scallop Recipe 14g x 4 (Pack of 6),Inaba,0.336,1374,8.33,0,0
+222325000190216581,Inaba Churu For Hairball Tuna 14g x 4 (Pack of 6),Inaba,0.336,1374,8.33,0,0
+222325000190216611,Inaba Churu For Hairball Chicken 14g x 4 (Pack of 6),Inaba,0.336,1374,8.33,0,0
+222325000190216641,Inaba Churu For Kitten Tuna Recipe 14g x 4 (Pack of 6),Inaba,0.336,1374,8.33,0,0
+222325000190216671,Inaba Churu for Kitten Chicken Recipe 14g x 4 (Pack of 6),Inaba,0.336,1374,8.33,0,0
+222325000190216701,Inaba Juicy Bites Tuna & Chicken Flavor 11.3g x 3 (Pack of 6),Inaba,0.234,1554,8.33,0,0
+222325000190216731,Inaba Juicy Bites Fish & Clam Flavor 11.3g x 3 (Pack of 6),Inaba,0.234,1554,8.33,0,0
+222325000190216761,Inaba Juicy Bites Scallop & Crab Flavor 11.3g x 3 (Pack of 6),Inaba,0.234,1554,8.33,0,0
+222325000190216791,Inaba Juicy Bites Shrimp & Seafood Mix Flavor 11.3g x 3 (Pack of 6),Inaba,0.234,1554,8.33,0,0
+222325000190216821,Inaba Juicy Bites Homestyle Broth & Calamari Flavor 11.3g x 3 (Pack of 6),Inaba,0.234,1554,8.33,0,0
+222325000190216851,Inaba Chicken Stew Chicken Recipe 40g (Pack of 6),Inaba,0.24,628,8.33,0,0
+222325000190216881,Inaba Chicken Stew Chicken & Tuna Recipe 40g (Pack of 6),Inaba,0.24,628,8.33,0,0
+222325000190216911,Inaba Chicken Stew Chicken with Salmon Recipe 40g (Pack of 6),Inaba,0.24,628,8.33,0,0
+222325000190216941,Inaba Chicken Broth with Chicken Recipe 50g (Pack of 6),Inaba,0.3,628,8.33,0,0
+222325000190216971,Inaba Chicken Broth with Chicken & Tuna Recipe 50g (Pack of 6),Inaba,0.3,628,8.33,0,0
+222325000190217001,Inaba Chicken Broth with Chicken & Salmon Recipe 50g (Pack of 6),Inaba,0.3,628,8.33,0,0
+222325000190217031,Inaba Churu Bisque Tuna Recipe 40g (Pack of 6),Inaba,0.24,628,8.33,0,0
+222325000190217061,Inaba Churu Bisque Tuna with Salmon Recipe 40g (Pack of 6),Inaba,0.24,628,8.33,0,0
+222325000190217091,Inaba Churu Bisque Chicken Recipe 40g (Pack of 6),Inaba,0.24,628,8.33,0,0
+222325000190217121,Inaba Dashi Delights Chicken with Tuna Recipe 70g (Pack of 6),Inaba,0.42,945,8.33,0,0
+222325000190217151,Inaba Dashi Delights Chicken with Tuna & Salmon Recipe 70g (Pack of 6),Inaba,0.42,945,8.33,0,0
+222325000190217181,Inaba Dashi Delights Chicken Recipe 70g (Pack of 6),Inaba,0.42,945,8.33,0,0
+222325000190217211,Inaba Dog Churu Chicken Recipe 14g x 4 (Pack of 6),Inaba,0.336,1209,8.33,0,0
+222325000190217241,Inaba Dog Churu Chicken with Tuna Recipe 14g x 4 (Pack of 6),Inaba,0.336,1209,8.33,0,0
+222325000190217271,Inaba Dog Churu Chicken with Salmon Recipe 14g x 4 (Pack of 6),Inaba,0.336,1209,8.33,0,0
+222325000190217301,Inaba Dog Churu Chicken with Cheese Recipe 56g (Pack of 6),Inaba,0.336,1209,8.33,0,0
+222325000190217331,Inaba Dog Churu Chicken with Vegetables Recipe 56g (Pack of 6),Inaba,0.336,1209,8.33,0,0
+222325000197202334,GroomEssence Pet Cologne Petal Dew Raw ml.,GroomEssence,0,96,0,0,0
+222325000197202369,GE Label-Petal Dew Sticker 200ml,GroomEssence,0,8,0,0,0
+222325000197202399,GroomEssence Pet Cologne Petal Dew 200 ml,GroomEssence,0,599,0,0,0
+222325000199503777,GE_Empty Plastic Gallon_3.8L,GroomEssence,0,38,0,0,0
